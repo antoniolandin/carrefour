@@ -1,104 +1,81 @@
 from curl_cffi import requests
 import re
 import json
+import time
 from tqdm import tqdm
 from bs4 import BeautifulSoup
 
 
-def extract_catalog_product_links(catalog_number=20009, url="https://www.carrefour.es/supermercado/la-despensa") -> list[str]:
+def extract_products_from_page(page_text) -> list[dict]:
     """
-    Esta función extrae todos los links de los productos de un catálogo.
+    Devuelve toda la información de los productos, sin necesidad de tener que mirar la página individual de cada uno.
 
-    Necesitamos estos links de los productos para así poder ir uno por uno obteniendo su información.
+    Para hacerlo de una sentada, se mira la información de los productos que hay en el código javascrit de la página del catálogo.
     """
-    # GET route of the catalog from carrefour spain
+
+    pattern = r'<script type="text/javascript">window\["impressions"\]=(\[.*\])'
+    json_text = re.search(pattern, page_text).group(1)
+
+    products = json.loads(json_text)
+
+    return [{"name": x["item_name"].replace("-", " ").title(), "price": x["price"], "brand": x["item_brand"], "ean": x["item_ean"]} for x in products]
+
+
+def extract_products_from_catalog(session, catalog_number=20009, url="https://www.carrefour.es/supermercado/la-despensa") -> list[dict]:
+    """
+    Obtener todos los productos de un catálogo de Carrefour España
+    """
+
     catalog_url = f"{url}/la-despensa/a/cat{catalog_number}/c"
 
     # We use the curl_cffi requests, which is similar as the normal one but evades cloudflare
     response = requests.get(catalog_url, impersonate="chrome")
     response.raise_for_status()
-    text = response.text
+    soup = BeautifulSoup(response.text, "html.parser")
 
-    # First we need to know how many products are in the catalog
-    # For that we capture the "1 - 24 de 1008 productos" text using a regular expression
-    print("Searching for the number of products...")
-    pattern = r"(?:<[^>]+>)?\d+(?:<[^>]+>)?\s*-\s*(?:<[^>]+>)?\d+(?:<[^>]+>)?\s+de\s+(?:<[^>]+>)?(\d+)(?:<[^>]+>)?\s+productos"
-    number_products = int(re.search(pattern, text).group(1))
-    print(f"The're {number_products} products")
+    # Get the number of pages
+    _, n_products_per_page, n_products = [int(x.text) for x in soup.find_all("span", class_="pagination__results-item")]
 
-    # Now we need to know how many pages has the catalog
-    pattern = r"Página \d+ de (\d+)"
-    page_number = int(re.search(pattern, text).group(1))
+    n_pages = n_products // n_products_per_page
 
-    # The number of products per page
-    number_products_page = number_products // page_number
-
-    # First step is to get the URLs of all the products of the catalog
-    products_url = []
-    for page in tqdm(range(page_number), "Fetching product links", unit="pág"):
+    products = []
+    for page in tqdm(range(n_pages), "Fetching products", unit="pág"):
         # GET route of the catalog at the current page
-        catalog_url = f"{url}/la-despensa/alimentacion/cat20009/c?offset={page * number_products_page}"
+        catalog_url = f"{url}/la-despensa/alimentacion/cat20009/c?offset={page * n_products_per_page}"
 
         # Fetch the current page
-        response = requests.get(catalog_url, impersonate="chrome")
-        response.raise_for_status()
-        text = response.text
+        text = fetch(session, catalog_url)
 
-        # Find the data in the page
-        pattern = r"window\[\"impressions\"\]=(\[.*\])"
-        json_data = re.search(pattern, text).group(1)
+        # Add products
+        products += extract_products_from_page(text)
 
-        # Convert the json data to a python object
-        products = json.loads(json_data)
-
-        # Add all the URLs of the current page
-        products_url += [
-            f"{url}/{product['item_name']}/" + f"R-{product['item_internal_id']}".upper().replace("PROD", "prod") + "/p" for product in products
-        ]
-
-    return set(products_url)
+    return products
 
 
-def extract_product_info(product_url: str) -> dict:
+def fetch(session, url: str, max_retries=4) -> str:
     """
-    Extraer el nombre, precio, precio por kilo y el código de barras EAN-13 de un producto.
+    Dada una URL, trata de descargar el contenido de una página. Sí la petición de desacarga falla, espera y lo vuelve a intentar.
     """
-    # Fetch product page
-    response = requests.get(product_url, impersonate="chrome")
+    for attempt in range(max_retries + 1):
+        response = session.get(url)
+
+        # Si no hay error o se alcanzó el límite de intentos, salir del bucle
+        if response.status_code not in (429, 503) or attempt == max_retries:
+            break
+
+        retry_after = response.headers.get("Retry-After", "")
+        wait = int(retry_after) if retry_after.isdigit() else 30 * 2**attempt
+        print(f"\n{response.status_code} en {url}, esperando {wait} s")
+        time.sleep(wait)
+
     response.raise_for_status()
-    text = response.text
-
-    soup = BeautifulSoup(text, "html.parser")
-
-    # Encontrar datos del producto usando BeautifulSoup
-    product_name = soup.find("h1", class_="product-header__name").text.strip()
-    product_price = soup.find("span", class_="buybox__price").text.strip()
-    product_price_per_unit = soup.find("div", class_="buybox__price-per-unit").find("span").text.strip()
-
-    # Convertir a floats
-    product_price = float(product_price.split()[0].replace(",", "."))
-    product_price_per_unit = float(product_price_per_unit.split()[0].replace(",", "."))
-
-    # Encontrar el código de barras EAN-13 usando una expresión regular
-    pattern = r"\b\d{13}\b"
-    ean13 = re.search(pattern, text).group()
-
-    return {"product_name": product_name, "product_price": product_price, "product_price_per_unit": product_price_per_unit, "ean13": ean13}
+    return response.text
 
 
 if __name__ == "__main__":
-    # product_links = extract_catalog_product_links()
-    # with open("catalog.txt", "w") as f:
-    #     f.write("\n".join(product_links))
+    session = requests.Session(impersonate="chrome")
 
-    # Abrir el archivo de cache con todas las urls de los productos
-    with open("catalog.txt", "r") as f:
-        product_links = f.readlines()
-
-    products = []
-    for product_link in product_links:  # tqdm(product_links, "Fetching products", unit=" products"):
-        product = extract_product_info(product_link)
-        products.append(product)
+    products = extract_products_from_catalog(session)
 
     with open("products.json", "w", encoding="utf-8") as f:
         json.dump(products, f, ensure_ascii=False, indent=4)
