@@ -82,7 +82,7 @@ if __name__ == "__main__":
     driver = Driver(uc=True, headless=False)
     session = requests.Session(impersonate="chrome")
 
-    with open("cesta.csv", "r") as f:
+    with open("../cesta.csv", "r") as f:
         reader = csv.DictReader(f)
 
         products_names = [row["es"] for row in reader]
