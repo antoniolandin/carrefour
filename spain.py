@@ -51,13 +51,10 @@ def extract_products(html_text: str) -> list[dict]:
 
     products = []
     for article in soup.find_all("article", class_="x-result"):
-        # El primer <p> del título (en bodega hay un segundo <p> con la denominación de origen)
         name = article.select_one('[data-test="result-title"] p').get_text(strip=True)
 
-        # Precio actual (en las ofertas, el precio tachado va antes y también lleva span.x-currency)
         price = parse_price(article.select_one('[data-test="result-current-price"]').get_text(strip=True))
 
-        # Precio por unidad: "1,17 €/kg", "3 €/kg"...
         match = re.search(r"(\d+(?:[.,]\d+)?)\s*€\s*/\s*\w+", article.get_text(" "))
         price_per_unit = parse_price(match.group(1)) if match else None
 
@@ -98,5 +95,5 @@ if __name__ == "__main__":
         for product in products[name]:
             product["ean"] = get_ean(session, product["url"])
 
-    with open("products.json", "w") as f:
+    with open("resultados/busqueda.json", "w") as f:
         f.write(json.dumps(products))

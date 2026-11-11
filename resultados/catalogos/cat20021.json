@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Huevos Camperos L Circulo De Calidad 6 Ud",
+        "price": 2.59,
+        "brand": "circulo-de-calidad",
+        "ean": "8431876259803",
+        "item_id": "151112",
+        "internal_id": "prod69874",
+        "category": "24641",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Huevos Frescos M Carrefour El Mercado 24 Ud",
+        "price": 5.24,
+        "brand": "carrefour",
+        "ean": "8431876316407",
+        "item_id": "307898",
+        "internal_id": "vc4aecomm-307898",
+        "category": "24620",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Huevos Frescos L Carrefour El Mercado 12 Ud",
+        "price": 3.04,
+        "brand": "carrefour",
+        "ean": "8431876316377",
+        "item_id": "307927",
+        "internal_id": "vc4aecomm-307927",
+        "category": "24610",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Huevos Camperos L Circulo De Calidad 12 Ud",
+        "price": 4.25,
+        "brand": "circulo-de-calidad",
+        "ean": "8431876271843",
+        "item_id": "055278",
+        "internal_id": "prod970492",
+        "category": "24641",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Huevos Ecologicos M L Carrefour Bio 10 Ud",
+        "price": 4.58,
+        "brand": "carrefour-bio",
+        "ean": "8431876291667",
+        "item_id": "497273",
+        "internal_id": "vc4aecomm-497273",
+        "category": "24644",
+        "promotion": "directo/sobre-producto/_-10-acumulacion",
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Huevos De Gallinas Criadas En Suelo Carrefour El Mercado 12 Ud",
+        "price": 2.84,
+        "brand": "carrefour",
+        "ean": "8431876316360",
+        "item_id": "307935",
+        "internal_id": "vc4aecomm-307935",
+        "category": "24620",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Huevos M L Ecologicos Carrefour Bio 6 Ud",
+        "price": 2.85,
+        "brand": "carrefour",
+        "ean": "8431876267594",
+        "item_id": "864411",
+        "internal_id": "prod840199",
+        "category": "24644",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Clara De Huevo Pasteurizada Carrefour Classic 1 L",
+        "price": 2.85,
+        "brand": "carrefour",
+        "ean": "8431876288377",
+        "item_id": "497495",
+        "internal_id": "vc4aecomm-497495",
+        "category": "15390",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Huevo Cocido Campero Carrefour El Mercado 6 Ud",
+        "price": 3.19,
+        "brand": "el-mercado",
+        "ean": "8431876352146",
+        "item_id": "320266",
+        "internal_id": "vc4aecomm-320266",
+        "category": "24642",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Huevos Frescos Carrefour El Mercado 12 Ud",
+        "price": 3.89,
+        "brand": "carrefour",
+        "ean": "8431876316391",
+        "item_id": "307925",
+        "internal_id": "vc4aecomm-307925",
+        "category": "24600",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Clara De Huevo Liquido Pasteurizado Roig 500 G",
+        "price": 3.28,
+        "brand": "marca-nacional-sin-marca",
+        "ean": "8437008240312",
+        "item_id": "227991",
+        "internal_id": "prod120404",
+        "category": "24640",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Huevos De Gallinas Criadas En Suelo Carrefour El Mercado 6 Ud",
+        "price": 1.69,
+        "brand": "carrefour",
+        "ean": "8431876316384",
+        "item_id": "307947",
+        "internal_id": "vc4aecomm-307947",
+        "category": "24610",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Huevos L M Camperos Granja Villarreal 12 Ud",
+        "price": 3.95,
+        "brand": null,
+        "ean": "8435142310137",
+        "item_id": "300856",
+        "internal_id": "prod222197",
+        "category": "24641",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Huevos L M Camperos Granjas Villarreal 6 Ud",
+        "price": 2.3,
+        "brand": null,
+        "ean": "8435142310076",
+        "item_id": "300858",
+        "internal_id": "prod222185",
+        "category": "24641",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Clara De Huevo Pasteurizada Carrefour Classic 320 Ml",
+        "price": 1.82,
+        "brand": "carrefour",
+        "ean": "8431876338812",
+        "item_id": "243267",
+        "internal_id": "vc4aecomm-243267",
+        "category": "15390",
+        "promotion": null,
+        "catalog": "cat20021"
+    },
+    {
+        "name": "Huevos De Codorniz Dagu 18 Ud",
+        "price": 1.79,
+        "brand": "dagu",
+        "ean": "8410603180016",
+        "item_id": "573057",
+        "internal_id": "521032821",
+        "category": "24643",
+        "promotion": null,
+        "catalog": "cat20021"
+    }
+]
