@@ -1,19 +1,24 @@
 % Plantilla del informe de Data in the Wild (estructura basada en los informes de ejemplo 2021, 2022 y 2025).
 % Compilar con: latexmk -pdf main.tex
-\documentclass[11pt,a4paper]{article}
+\documentclass[11pt,a4paper,twocolumn]{article}
 
 \usepackage{iftex}
 \ifPDFTeX
     \usepackage[utf8]{inputenc}
     \usepackage[T1]{fontenc}
-    \usepackage{lmodern}
+    \usepackage{newtxtext,newtxmath}
 \else
     % XeLaTeX / LuaLaTeX
-    \usepackage{fontspec}
+    \usepackage{newtxmath}
+    \usepackage[no-math]{fontspec}
+    \setmainfont{texgyretermes}[Extension=.otf, UprightFont=*-regular, BoldFont=*-bold, ItalicFont=*-italic, BoldItalicFont=*-bolditalic]
 \fi
 \usepackage[english]{babel}
 \usepackage{microtype}
-\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage[a4paper,margin=2.5cm,columnsep=0.6cm]{geometry}
+\usepackage{titlesec}
+\titleformat*{\section}{\large\bfseries}
+\titleformat*{\subsection}{\normalsize\bfseries}
 \usepackage{graphicx}
 \usepackage{booktabs}
 \usepackage{caption}
@@ -33,42 +38,32 @@
 % Marcas para el borrador: quitarlas antes de la entrega final
 \newcommand{\todo}[1]{\textcolor{red}{[TODO: #1]}}
 
-% Datos de la portada
+% Datos del título
 \newcommand{\reporttitle}{Comparing Supermarket Prices Across Europe: A Carrefour Shopping Basket}
 \newcommand{\coursename}{Data in the Wild: Wrangling and Visualising Data (Autumn 2026)}
 \newcommand{\coursecode}{KSDWWVD1KU}
 \newcommand{\githuburl}{https://github.com/antoniolandin/carrefour}
 
+% Resumen centrado y en letra pequeña, como en los informes a dos columnas de 2021 y 2022
+\renewenvironment{abstract}
+    {\begin{center}\bfseries\abstractname\end{center}\vspace{-0.5\baselineskip}\begin{quote}\small}
+    {\end{quote}}
+
+\title{\textbf{\reporttitle}}
+\author{
+    \textbf{Antonio Cabrera Landín} \quad \textbf{Javier \todo{apellidos}} \quad \textbf{\todo{resto del grupo}} \\
+    IT University of Copenhagen \\
+    \texttt{\{\todo{email},\todo{email}\}@itu.dk} \\
+    \url{\githuburl}
+}
+\date{\small \coursename, course code \coursecode}
+
 \begin{document}
 
 % ---------------------------------------------------------------------------
-% Portada (como en los informes de 2021 y 2025)
+% Título a todo el ancho; el enunciado pide el enlace a GitHub en la primera página
 % ---------------------------------------------------------------------------
-\begin{titlepage}
-    \centering
-    \vspace*{5cm}
-    \rule{\linewidth}{0.4pt}\par\vspace{0.8cm}
-    {\LARGE\bfseries \reporttitle\par}
-    \vspace{0.4cm}
-    {\large\scshape \coursename\par}
-    \vspace{0.8cm}
-    \rule{\linewidth}{0.4pt}\par
-    \vspace{2cm}
-
-    {\bfseries Authors:}\par
-    Antonio Cabrera Landín (\todo{email}@itu.dk)\par
-    Javier \todo{apellidos} (\todo{email}@itu.dk)\par
-    \todo{resto del grupo}\par
-    \vspace{1.5cm}
-
-    {\bfseries IT University of Copenhagen}\par
-    {\bfseries Course code:} \coursecode\par
-    \vspace{1.5cm}
-
-    \today\par
-    \vspace{1cm}
-    \url{\githuburl}
-\end{titlepage}
+\maketitle
 
 % ---------------------------------------------------------------------------
 % Resumen (2021 y 2022 lo tienen; 150-250 palabras)
@@ -76,9 +71,6 @@
 \begin{abstract}
     \todo{Qué hemos hecho (scraping de Carrefour en varios países), con qué datos, cómo emparejamos productos y la conclusión principal en una o dos frases.}
 \end{abstract}
-
-\tableofcontents
-\clearpage
 
 % ---------------------------------------------------------------------------
 \section{Note on AI usage}
@@ -121,15 +113,16 @@ All code and data are available on GitHub (see \cref{app:github}).
 
 \begin{table}[ht]
     \centering
+    \small
     \begin{tabular}{lrrr}
         \toprule
-        Country & Products & Unique EANs & Basket items covered \\
+        Country & Products & EANs & Basket \\
         \midrule
         Spain   & \todo{}  & \todo{}     & \todo{} / 22 \\
         Italy   & \todo{}  & \todo{}     & \todo{} / 22 \\
         \bottomrule
     \end{tabular}
-    \caption{\todo{Resumen de los datos recogidos por país.}}
+    \caption{\todo{Resumen de los datos recogidos por país: productos, EAN únicos y líneas de la cesta encontradas.}}
     \label{tab:datasets}
 \end{table}
 
@@ -157,10 +150,11 @@ All code and data are available on GitHub (see \cref{app:github}).
 \subsection{Exploratory data analysis}
 \todo{Distribución de precios, cobertura de la cesta por país.}
 
+% figure ocupa una columna; figure* (o table*) ocupa las dos y va arriba de una página
 \begin{figure}[ht]
     \centering
-    % \includegraphics[width=0.8\linewidth]{precios_por_pais.pdf}
-    \framebox[0.8\linewidth]{\rule{0pt}{4cm}\todo{figura}}
+    % \includegraphics[width=\linewidth]{precios_por_pais.pdf}
+    \framebox[\linewidth]{\rule{0pt}{4cm}\todo{figura}}
     \caption{\todo{Pie de figura.}}
     \label{fig:prices}
 \end{figure}
