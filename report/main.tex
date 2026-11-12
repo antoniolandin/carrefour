@@ -1,0 +1,209 @@
+% Plantilla del informe de Data in the Wild (estructura basada en los informes de ejemplo 2021, 2022 y 2025).
+% Compilar con: latexmk -pdf main.tex
+\documentclass[11pt,a4paper]{article}
+
+\usepackage{iftex}
+\ifPDFTeX
+    \usepackage[utf8]{inputenc}
+    \usepackage[T1]{fontenc}
+    \usepackage{lmodern}
+\else
+    % XeLaTeX / LuaLaTeX
+    \usepackage{fontspec}
+\fi
+\usepackage[english]{babel}
+\usepackage{microtype}
+\usepackage[a4paper,margin=2.5cm]{geometry}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{siunitx}
+\usepackage{xcolor}
+\usepackage{csquotes}
+\usepackage[style=numeric,sorting=none,backend=biber]{biblatex}
+\usepackage[colorlinks=true,linkcolor=blue!60!black,citecolor=green!40!black,urlcolor=blue!60!black]{hyperref}
+\usepackage[nameinlink]{cleveref}
+
+\addbibresource{references.bib}
+\graphicspath{{figures/}}
+
+% Marcas para el borrador: quitarlas antes de la entrega final
+\newcommand{\todo}[1]{\textcolor{red}{[TODO: #1]}}
+
+% Datos de la portada
+\newcommand{\reporttitle}{Comparing Supermarket Prices Across Europe: A Carrefour Shopping Basket}
+\newcommand{\coursename}{Data in the Wild: Wrangling and Visualising Data (Autumn 2026)}
+\newcommand{\coursecode}{KSDWWVD1KU}
+\newcommand{\githuburl}{https://github.com/antoniolandin/carrefour}
+
+\begin{document}
+
+% ---------------------------------------------------------------------------
+% Portada (como en los informes de 2021 y 2025)
+% ---------------------------------------------------------------------------
+\begin{titlepage}
+    \centering
+    \vspace*{5cm}
+    \rule{\linewidth}{0.4pt}\par\vspace{0.8cm}
+    {\LARGE\bfseries \reporttitle\par}
+    \vspace{0.4cm}
+    {\large\scshape \coursename\par}
+    \vspace{0.8cm}
+    \rule{\linewidth}{0.4pt}\par
+    \vspace{2cm}
+
+    {\bfseries Authors:}\par
+    Antonio Cabrera Landín (\todo{email}@itu.dk)\par
+    Javier \todo{apellidos} (\todo{email}@itu.dk)\par
+    \todo{resto del grupo}\par
+    \vspace{1.5cm}
+
+    {\bfseries IT University of Copenhagen}\par
+    {\bfseries Course code:} \coursecode\par
+    \vspace{1.5cm}
+
+    \today\par
+    \vspace{1cm}
+    \url{\githuburl}
+\end{titlepage}
+
+% ---------------------------------------------------------------------------
+% Resumen (2021 y 2022 lo tienen; 150-250 palabras)
+% ---------------------------------------------------------------------------
+\begin{abstract}
+    \todo{Qué hemos hecho (scraping de Carrefour en varios países), con qué datos, cómo emparejamos productos y la conclusión principal en una o dos frases.}
+\end{abstract}
+
+\tableofcontents
+\clearpage
+
+% ---------------------------------------------------------------------------
+\section{Note on AI usage}
+% Sección obligatoria en el informe de 2025: herramientas usadas y para qué.
+\todo{Herramientas de IA usadas y para qué (código, depuración, redacción, gráficos).}
+
+\begin{itemize}
+    \item \todo{Uso 1}
+    \item \todo{Uso 2}
+\end{itemize}
+
+% ---------------------------------------------------------------------------
+\section{Introduction}
+% Contexto, por qué no existe un dataset así y pregunta(s) de investigación explícitas.
+\todo{Contexto: comparación de precios de la cesta de la compra entre países de la UE y por qué Carrefour es un buen caso.}
+
+Our project aims to answer the following research questions:
+\begin{itemize}
+    \item \textbf{RQ1:} \todo{Por ejemplo: ¿cuánto cuesta la misma cesta de la compra en Carrefour en distintos países?}
+    \item \textbf{RQ2:} \todo{Por ejemplo: ¿se venden los mismos productos (mismo EAN) y a qué precio?}
+\end{itemize}
+
+All code and data are available on GitHub (see \cref{app:github}).
+
+% ---------------------------------------------------------------------------
+\section{Data collection}
+% Los tres ejemplos detallan fuentes, método (scraping/API), problemas encontrados y tamaño final.
+
+\subsection{Shopping basket}
+\todo{Cómo se eligieron los 22 productos de cesta.csv y su traducción a cada idioma.}
+
+\subsection{Carrefour Spain}
+\todo{Páginas de catálogo, bloque de analítica \texttt{impressions} con el EAN, tope de 1008 productos por listado.}
+
+\subsection{Carrefour Italy}
+\todo{Búsqueda con Playwright y JSON de cada tarjeta de producto.}
+
+\subsection{Challenges}
+\todo{Contenido generado con JavaScript, shadow DOM, bloqueos de Cloudflare, productos agotados.}
+
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{lrrr}
+        \toprule
+        Country & Products & Unique EANs & Basket items covered \\
+        \midrule
+        Spain   & \todo{}  & \todo{}     & \todo{} / 22 \\
+        Italy   & \todo{}  & \todo{}     & \todo{} / 22 \\
+        \bottomrule
+    \end{tabular}
+    \caption{\todo{Resumen de los datos recogidos por país.}}
+    \label{tab:datasets}
+\end{table}
+
+% ---------------------------------------------------------------------------
+\section{Data processing}
+
+\subsection{Schema harmonization}
+\todo{Formato común para todos los países: campos, tipos, moneda.}
+
+\subsection{Data quality}
+\todo{Validación de EAN (dígito de control), códigos internos de frescos, duplicados, campos vacíos, nombres sin decimales.}
+
+\subsection{Product matching across countries}
+\todo{Emparejamiento por EAN, por nombre (marca + formato) y productos equivalentes de marca propia.}
+
+% ---------------------------------------------------------------------------
+\section{Annotation}
+% Los tres ejemplos anotan datos a mano y miden el acuerdo entre anotadores.
+\todo{Qué se anota (p. ej. qué producto corresponde a cada línea de la cesta), guía de anotación y acuerdo entre anotadores \cite{cohen1960}.}
+
+% ---------------------------------------------------------------------------
+\section{Results and discussion}
+% En 2025: análisis exploratorio con muchas figuras; en 2021/2022: resultados y discusión separados.
+
+\subsection{Exploratory data analysis}
+\todo{Distribución de precios, cobertura de la cesta por país.}
+
+\begin{figure}[ht]
+    \centering
+    % \includegraphics[width=0.8\linewidth]{precios_por_pais.pdf}
+    \framebox[0.8\linewidth]{\rule{0pt}{4cm}\todo{figura}}
+    \caption{\todo{Pie de figura.}}
+    \label{fig:prices}
+\end{figure}
+
+\subsection{Basket price comparison}
+\todo{Respuesta a RQ1 (ver \cref{fig:prices}).}
+
+\subsection{Shared products}
+\todo{Respuesta a RQ2.}
+
+% ---------------------------------------------------------------------------
+\section{Limitations and ethical considerations}
+% 2022 tiene una sección de limitaciones; aquí también encaja la ética del scraping.
+\todo{Alcance distinto por país (catálogo frente a búsqueda), precios de un único día y código postal, términos de uso y bloqueos de la web.}
+
+% ---------------------------------------------------------------------------
+\section{Conclusion}
+\todo{Respuesta breve a cada pregunta de investigación y trabajo futuro.}
+
+\printbibliography[heading=bibintoc]
+
+% ---------------------------------------------------------------------------
+\appendix
+\section{Appendix}
+
+\subsection{GitHub}
+\label{app:github}
+The code and the datasets are available at \url{\githuburl}.
+
+\subsection{Annotation guidelines}
+\todo{Guía de anotación con ejemplos y casos dudosos.}
+
+\subsection{Datasheet for the dataset}
+% Estructura de Datasheets for Datasets, usada en el informe de 2025.
+Following \textcite{gebru2021datasheets}:
+\begin{description}[style=nextline]
+    \item[Motivation] \todo{}
+    \item[Composition] \todo{}
+    \item[Collection process] \todo{}
+    \item[Preprocessing, cleaning and labelling] \todo{}
+    \item[Uses] \todo{}
+    \item[Distribution] \todo{}
+    \item[Maintenance] \todo{}
+\end{description}
+
+\end{document}
