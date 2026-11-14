@@ -1,0 +1,6386 @@
+[
+    {
+        "search_query":"spaghetti",
+        "name":"Pezzullo Spaghetti 5 500 g",
+        "price":"0.59",
+        "brand":"Pezzullo",
+        "category":"pasta_di_grano",
+        "ean":"8030705008072"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Rummo Spaghetti Grossi N° 5 500 g",
+        "price":"1.65",
+        "brand":"Rummo",
+        "category":"pasta_di_grano",
+        "ean":"8008343200059"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Pasta Spaghetti n.5 1Kg",
+        "price":"1.85",
+        "brand":"Barilla",
+        "category":"pasta_di_grano",
+        "ean":"8076800105056"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"La Molisana 15 Spaghetti 500 g",
+        "price":"0.65",
+        "brand":"La Molisana",
+        "category":"pasta_di_grano",
+        "ean":"8004690051573"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Rummo Spaghetti N° 3 500 g",
+        "price":"1.65",
+        "brand":"Rummo",
+        "category":"pasta_di_grano",
+        "ean":"8008343200035"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"La Molisana 1 Spaghetto Quadrato 500 g",
+        "price":"0.65",
+        "brand":"La Molisana",
+        "category":"pasta_di_grano",
+        "ean":"8004690101513"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Pasta Spaghetti n.5 500g",
+        "price":"0.99",
+        "brand":"Barilla",
+        "category":"pasta_di_grano",
+        "ean":"8076800195057"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Pasta Spaghettini n.3 1Kg",
+        "price":"1.85",
+        "brand":"Barilla",
+        "category":"pasta_di_grano",
+        "ean":"8076800105032"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Garofalo Spaghetti 9 Pasta di Gragnano IGP 500 g",
+        "price":"1.59",
+        "brand":"Garofalo",
+        "category":"pasta_di_grano",
+        "ean":"8000139004261"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Napolina Spaghetti N° 05 500 g",
+        "price":"0.69",
+        "brand":"Napolina",
+        "category":"pasta_di_grano",
+        "ean":"8030705019573"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Corticella Spaghetti n 4 1 kg",
+        "price":"0.89",
+        "brand":"Corticella",
+        "category":"pasta_di_grano",
+        "ean":"8030705018378"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"De Cecco Spaghetti n°12 500 g",
+        "price":"1.59",
+        "brand":"De Cecco",
+        "category":"pasta_di_grano",
+        "ean":"8001250120120"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Rummo Spaghetti Grossi Quadrati N° 221 500 g",
+        "price":"1.65",
+        "brand":"Rummo",
+        "category":"pasta_di_grano",
+        "ean":"8008343202213"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Garofalo Spaghetti alla Chitarra 40-3 Pasta di Gragnano IGP 500 g",
+        "price":"1.59",
+        "brand":"Garofalo",
+        "category":"pasta_di_grano",
+        "ean":"8000139000034"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"La Molisana 14 Spaghetti Grossi 500 g",
+        "price":"0.65",
+        "brand":"La Molisana",
+        "category":"pasta_di_grano",
+        "ean":"8004690051429"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Mulan Spaghetti di Soia con verdura mista 200 g",
+        "price":"3.99",
+        "brand":"Mulan",
+        "category":"banco_gastronomia",
+        "ean":"8053369402086"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Pasta Spaghetti Grossi n.7 1Kg",
+        "price":"1.85",
+        "brand":"Barilla",
+        "category":"pasta_di_grano",
+        "ean":"8076800105070"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Rummo Spaghettini N° 2 500 g",
+        "price":"1.65",
+        "brand":"Rummo",
+        "category":"pasta_di_grano",
+        "ean":"8008343200028"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Pasta Spaghettini n.3 500g",
+        "price":"0.99",
+        "brand":"Barilla",
+        "category":"pasta_di_grano",
+        "ean":"8076800195033"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Carrefour Classic Spaghetti N.5 1 kg",
+        "price":"1.29",
+        "brand":"Carrefour",
+        "category":"pasta_di_grano",
+        "ean":"8012666009565"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Pasta Spaghetti Grossi n.7 500g",
+        "price":"0.99",
+        "brand":"Barilla",
+        "category":"pasta_di_grano",
+        "ean":"8076800195071"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Al Bronzo Pasta Spaghetti 500g",
+        "price":"1.29",
+        "brand":"Barilla Al Bronzo ",
+        "category":"pasta_di_grano",
+        "ean":"8076809585262"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Carrefour Classic Spaghettini N.3 500 g",
+        "price":"0.65",
+        "brand":"Carrefour",
+        "category":"pasta_di_grano",
+        "ean":"8012666007691"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Carrefour Spaghetti No Gluten!* 500 g",
+        "price":"1.65",
+        "brand":"Carrefour",
+        "category":"pasta_integrale",
+        "ean":"3560070425204"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Rummo Integrale Spaghetti N° 3 500 g",
+        "price":"1.79",
+        "brand":"Rummo",
+        "category":"pasta_integrale",
+        "ean":"8008343709033"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Mutti Sugo con Pomodoro Rossoro e con Basilico Genovese DOP 280 g",
+        "price":"2.19",
+        "brand":"Mutti",
+        "category":"pesto_e_sughi_pronti",
+        "ean":"8005110513053"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"De Cecco Spaghettini n°11 500 g",
+        "price":"1.59",
+        "brand":"De Cecco",
+        "category":"pasta_di_grano",
+        "ean":"8001250120113"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Pasta Integrale Spaghetti 500g",
+        "price":"0.95",
+        "brand":"Barilla",
+        "category":"pasta_integrale",
+        "ean":"8076809575553"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Voiello Pasta Lo Spaghetto N°104 grani 100% italiani Trafilata bronzo 500g",
+        "price":"1.49",
+        "brand":"Voiello",
+        "category":"pasta_di_grano",
+        "ean":"8076810500520"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Delverde No 4 Spaghetti 500 g",
+        "price":"0.99",
+        "brand":"Delverde",
+        "category":"pasta_di_grano",
+        "ean":"8006680040048"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Haribo Spaghetti Sour Happy-Cola Flavour 200 g",
+        "price":"1.49",
+        "brand":"Haribo",
+        "category":"caramelle_e_chewing_gum",
+        "ean":"4001686017050"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Haribo Spaghetti Sour Strawberry Flavour 200 g",
+        "price":"1.49",
+        "brand":"Haribo",
+        "category":"caramelle_e_chewing_gum",
+        "ean":"4001686017043"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"La Molisana 15 Spaghetti Integrali 500 g",
+        "price":"0.77",
+        "brand":"La Molisana",
+        "category":"pasta_integrale",
+        "ean":"8004690611500"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Rummo Integrale Spaghetti Grossi N° 5 500 g",
+        "price":"1.79",
+        "brand":"Rummo",
+        "category":"pasta_integrale",
+        "ean":"8008343709057"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"La Molisana 1 Spaghetto Quadrato Integrale 500 g",
+        "price":"0.77",
+        "brand":"La Molisana",
+        "category":"pasta_integrale",
+        "ean":"8004690611517"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Al Bronzo Pasta Spaghetti Quadrati 500g",
+        "price":"1.29",
+        "brand":"Barilla Al Bronzo ",
+        "category":"pasta_di_grano",
+        "ean":"8076809585323"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Voiello Pasta Lo Spaghetto Scanalato N°107 Grani 100% Italiani Trafilata Bronzo 500g",
+        "price":"1.49",
+        "brand":"Voiello",
+        "category":"pasta_di_grano",
+        "ean":"8076810500919"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Le Stagioni d'Italia Senatore varietà Cappelli Spaghetti 500 g",
+        "price":"1.59",
+        "brand":"Le Stagioni d'Italia",
+        "category":"pasta_di_grano",
+        "ean":"8056324082569"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Voiello Pasta Il Gran Spaghetto N°105 grani 100% italiani Trafilata bronzo 500g",
+        "price":"1.49",
+        "brand":"Voiello",
+        "category":"pasta_di_grano",
+        "ean":"8076810500605"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Carrefour Classic Spaghetti Integrali N.89 500 g",
+        "price":"0.89",
+        "brand":"Carrefour",
+        "category":"pasta_integrale",
+        "ean":"8012666048700"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Voiello Pasta Lo Spaghettino N°103 Grano 100% Italiano Trafilata Bronzo 500g",
+        "price":"1.49",
+        "brand":"Voiello",
+        "category":"pasta_di_grano",
+        "ean":"8076810500513"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Le Veneziane Spaghetti 250 g",
+        "price":"2.05",
+        "brand":"Le Veneziane",
+        "category":"pasta_integrale",
+        "ean":"8009915000251"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Terre d'Italia Pasta di Gragnano Spaghetti 500 g",
+        "price":"1.29",
+        "brand":"Terre D'Italia",
+        "category":"pasta_di_grano",
+        "ean":"8012666507894"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"granoro i Classici N. 14 Spaghetti Ristoranti 500 g",
+        "price":"1.29",
+        "brand":"granoro",
+        "category":"pasta_di_grano",
+        "ean":"8007290130143"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Pasta Spaghetti Senza Glutine 400 g",
+        "price":"1.85",
+        "brand":"Barilla",
+        "category":"pasta_integrale",
+        "ean":"8076809545440"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"De Cecco Integrale Spaghetti n° 12 500 g",
+        "price":"1.85",
+        "brand":"De Cecco",
+        "category":"pasta_integrale",
+        "ean":"8001250310125"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Pasta Integrale Spaghettini 500g",
+        "price":"0.95",
+        "brand":"Barilla",
+        "category":"pasta_integrale",
+        "ean":"8076809575560"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Rummo Senza Glutine Spaghetti N° 3 400 g",
+        "price":"2.55",
+        "brand":"Rummo",
+        "category":"pasta_integrale",
+        "ean":"8008343880039"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Protein+ Spaghetti, Pasta Ricca di Proteine di Origine Vegetale, 400 g",
+        "price":"2.39",
+        "brand":"Protein+",
+        "category":"pasta_integrale",
+        "ean":"8076809585842"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Delverde Integrale Biologica No 141 Spaghetti 500 g",
+        "price":"0.99",
+        "brand":"Delverde",
+        "category":"pasta_integrale",
+        "ean":"8006680051419"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Vesmati Shirataki Rice Spaghetti 250 g",
+        "price":"4.99",
+        "brand":"Vesmati",
+        "category":"cucina_etnica",
+        "ean":"5060304791672"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"De Cecco High Protein Spaghetti n° 12 400 g",
+        "price":"2.75",
+        "brand":"De Cecco",
+        "category":"pasta_integrale",
+        "ean":"8001250019646"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"maffei Pasta Fresca di Semola di Grano Duro Spaghetti Quadrati di Semola N°26 500 g",
+        "price":"1.29",
+        "brand":"maffei",
+        "category":"pasta_di_semola",
+        "ean":"8003039017577"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Riso Scotti Pasta Venere Integrale Spaghetti 400 g",
+        "price":"1.59",
+        "brand":"Riso Scotti",
+        "category":"pasta_integrale",
+        "ean":"8001860185144"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"HiPP Biologico Pappa Completa Spaghettini al Ragù 220 g",
+        "price":"2.69",
+        "brand":"HiPP Biologico",
+        "category":"pastine_e_creme",
+        "ean":"4062300122925"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Pezzullo Spaghettoni 6 500 g",
+        "price":"0.59",
+        "brand":"Pezzullo",
+        "category":"pasta_di_grano",
+        "ean":"8030705008102"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"15 Spaghetti Collezione da Chef 3 kg",
+        "price":"5.10",
+        "brand":"La Molisana",
+        "category":"pasta_di_grano",
+        "ean":"8004690601532"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"La Molisana 230 Spaghettone Grosso 500 g",
+        "price":"0.65",
+        "brand":"La Molisana",
+        "category":"pasta_di_grano",
+        "ean":"8004690102305"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Garofalo Spaghettone Gragnanese XXL 4-23 Pasta di Gragnano IGP 500 g",
+        "price":"1.59",
+        "brand":"Garofalo",
+        "category":"pasta_di_grano",
+        "ean":"8000139930140"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Rummo Spaghettoni Grossi N° 220 500 g",
+        "price":"1.65",
+        "brand":"Rummo",
+        "category":"pasta_di_grano",
+        "ean":"8008343202206"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"De Cecco Spaghettoni n°412 500 g",
+        "price":"1.59",
+        "brand":"De Cecco",
+        "category":"pasta_di_grano",
+        "ean":"8001250124128"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Pasta Spaghettoni n.8 500g",
+        "price":"0.99",
+        "brand":"Barilla",
+        "category":"pasta_di_grano",
+        "ean":"8076800195088"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"De Cecco Spaghettoni Quadrati n°413 500 g",
+        "price":"1.59",
+        "brand":"De Cecco",
+        "category":"pasta_di_grano",
+        "ean":"8001250004840"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Barilla Al Bronzo Pasta Spaghettoni 500g",
+        "price":"1.29",
+        "brand":"Barilla Al Bronzo",
+        "category":"pasta_di_grano",
+        "ean":"8076809585309"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Viva la Mamma Spaghetti Cacio Pepe 220 g",
+        "price":"3.99",
+        "brand":"Viva la Mamma",
+        "category":"primi_piatti",
+        "ean":"8032413005473"
+    },
+    {
+        "search_query":"spaghetti",
+        "name":"Voiello Pasta Lo Spaghettone Innamorato N°108 Grani 100% Italiani Trafilata Bronzo 500g",
+        "price":"1.49",
+        "brand":"Voiello",
+        "category":"pasta_di_grano",
+        "ean":"8076810792253"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Riso Italiano Carnaroli 1 kg",
+        "price":"2.99",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860010019"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Bio Basmati 500 g",
+        "price":"1.99",
+        "brand":"Carrefour Bio",
+        "category":"riso",
+        "ean":"3560071230685"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Classic Riso Carnaroli 1 Kg",
+        "price":"3.19",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666006540"
+    },
+    {
+        "search_query":"riso",
+        "name":"FRoSTA Paella 500 g",
+        "price":"4.99",
+        "brand":"FRoSTA",
+        "category":"riso",
+        "ean":"8052789532496"
+    },
+    {
+        "search_query":"riso",
+        "name":"Curtiriso Riso Carnaroli 2 x 500 g",
+        "price":"4.15",
+        "brand":"Curtiriso",
+        "category":"riso",
+        "ean":"8017759011708"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Sensations Paella* con calamari, cozze e gamberi *Surgelata 600 g",
+        "price":"3.49",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666041909"
+    },
+    {
+        "search_query":"riso",
+        "name":"Simpl Riso Originario 1 Kg",
+        "price":"1.49",
+        "brand":"Simpl",
+        "category":"riso",
+        "ean":"8012666061877"
+    },
+    {
+        "search_query":"riso",
+        "name":"Flora il Classico 1 Kg",
+        "price":"2.29",
+        "brand":"Flora",
+        "category":"riso",
+        "ean":"8017759647914"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Classic Riso Ribe Parboiled 1 Kg",
+        "price":"2.29",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666048021"
+    },
+    {
+        "search_query":"riso",
+        "name":"Il Buon Riso riso Roma 1 kg",
+        "price":"4.45",
+        "brand":"Il Buon Riso",
+        "category":"riso",
+        "ean":"8007793000295"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Basmati Profumato 500 g",
+        "price":"3.39",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860000034"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Classic Riso Arborio 1 Kg",
+        "price":"2.95",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666006519"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Classic Riso Basmati 250 g",
+        "price":"1.69",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666051113"
+    },
+    {
+        "search_query":"riso",
+        "name":"Terre d'Italia Riso Carnaroli del Piemonte 1 kg",
+        "price":"5.49",
+        "brand":"Terre d'Italia",
+        "category":"riso",
+        "ean":"8012666504633"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Riso Integrale Veloce 250 g",
+        "price":"1.69",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666051137"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Classic Riso Roma 1 kg",
+        "price":"2.59",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666006533"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Basmati Integrale 500 g",
+        "price":"3.29",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860253232"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Riso Integrale Venere 500 g",
+        "price":"3.39",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860187735"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Classic Riso Ribe 1 kg",
+        "price":"2.09",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666006526"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Classic Riso Integrale Nerone 250 g",
+        "price":"1.69",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666051120"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Extra Riso Jasmin 500 g",
+        "price":"2.55",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666011230"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Integrale 10' 1 kg",
+        "price":"3.79",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860190513"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Carnaroli invecchiato 18 mesi Selezione speciale 850 g",
+        "price":"3.69",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860252556"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Apri Scalda e gusta come vuoi! Riso Basmati 200 g",
+        "price":"2.09",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860182747"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Classic Riso Originario 1 kg",
+        "price":"2.25",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666011223"
+    },
+    {
+        "search_query":"riso",
+        "name":"Galbani Santa Lucia Nuvola la Leggera Spalmabile fresco 180 g",
+        "price":"1.70",
+        "brand":"Galbani",
+        "category":"ricotta,_stracchino_e_formaggi_spalmabili",
+        "ean":"8000430194555"
+    },
+    {
+        "search_query":"riso",
+        "name":"Galbani Santa Lucia Nuvola Spalmabile fresco 180 g",
+        "price":"1.49",
+        "brand":"Galbani",
+        "category":"ricotta,_stracchino_e_formaggi_spalmabili",
+        "ean":"8000430194401"
+    },
+    {
+        "search_query":"riso",
+        "name":"Philadelphia Original Formaggio Fresco cremoso Vaschetta 250g",
+        "price":"2.29",
+        "brand":" Philadelphia",
+        "category":"ricotta,_stracchino_e_formaggi_spalmabili",
+        "ean":"8001590640258"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Risotti Chicchi Grossi 1 kg",
+        "price":"4.15",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860190568"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Apri Scalda e gusta come vuoi! Riso Integrale Venere 200 g",
+        "price":"2.09",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860182730"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Bio Riso Arborio Integrale 500 g",
+        "price":"2.69",
+        "brand":"Carrefour Bio",
+        "category":"riso",
+        "ean":"8012666053698"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Risotto con Salsiccia Surgelato 300 g",
+        "price":"3.39",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666053452"
+    },
+    {
+        "search_query":"riso",
+        "name":"Mulan Riso cantonese Surgelato 250 g",
+        "price":"3.85",
+        "brand":"Mulan",
+        "category":"riso",
+        "ean":"8053369400020"
+    },
+    {
+        "search_query":"riso",
+        "name":"Terre d'Italia Riso Nano Vialone Veronese I.G.P 2 x 500 g",
+        "price":"5.49",
+        "brand":"Terre d'Italia",
+        "category":"riso",
+        "ean":"8012666500109"
+    },
+    {
+        "search_query":"riso",
+        "name":"Curtiriso Risotto 1 kg",
+        "price":"2.99",
+        "brand":"Curtiriso",
+        "category":"riso",
+        "ean":"8017759648041"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Oro Classico 1 kg",
+        "price":"3.65",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860920110"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Bio Riso Ribe 500 g",
+        "price":"2.19",
+        "brand":"Carrefour Bio",
+        "category":"riso",
+        "ean":"8012666053704"
+    },
+    {
+        "search_query":"riso",
+        "name":"riso FLORA Bell'Insalata 1 Kg",
+        "price":"2.69",
+        "brand":"riso Flora",
+        "category":"riso",
+        "ean":"8017759647938"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Risotti Selection Risotto Integrale 1 kg",
+        "price":"4.59",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860183430"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Bio Riso Medio Nero Integrale 500 g",
+        "price":"3.29",
+        "brand":"Carrefour Bio",
+        "category":"riso",
+        "ean":"8012666065387"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Apri Scalda e gusta come vuoi! Riso Chicco Lungo 200 g",
+        "price":"2.19",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860182723"
+    },
+    {
+        "search_query":"riso",
+        "name":"Tocco D'Oro Gran Risotto ai funghi porcini 270 g",
+        "price":"4.49",
+        "brand":"Tocco D'Oro",
+        "category":"riso",
+        "ean":"8058697450020"
+    },
+    {
+        "search_query":"riso",
+        "name":"Le Stagioni d'Italia Carnaroli 1 Kg",
+        "price":"4.95",
+        "brand":"Le Stagioni d'Italia",
+        "category":"riso",
+        "ean":"8056324081005"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Apri Scalda e gusta come vuoi! Riso Integrale 200 g",
+        "price":"2.19",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860182716"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Oro Insalate Classiche 10' 1 kg",
+        "price":"4.10",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860190520"
+    },
+    {
+        "search_query":"riso",
+        "name":"Il Buon Riso Rosso Italiano Integrale Parboiled 500 g",
+        "price":"5.45",
+        "brand":"Il Buon Riso",
+        "category":"riso",
+        "ean":"8007793000127"
+    },
+    {
+        "search_query":"riso",
+        "name":"Carrefour Riso Vialone Nano 1 Kg",
+        "price":"4.09",
+        "brand":"Carrefour",
+        "category":"riso",
+        "ean":"8012666006557"
+    },
+    {
+        "search_query":"riso",
+        "name":"Terre d'Italia Riso S. Andrea Riso di Baraggia Biellese e Vercellese D.O.P. 1 kg",
+        "price":"4.89",
+        "brand":"Terre d'Italia",
+        "category":"riso",
+        "ean":"8012666501755"
+    },
+    {
+        "search_query":"riso",
+        "name":"Riso Scotti Riso Italiano Arborio 1 kg",
+        "price":"4.45",
+        "brand":"Riso Scotti",
+        "category":"riso",
+        "ean":"8001860201011"
+    },
+    {
+        "search_query":"riso",
+        "name":"Le Stagioni d'Italia 100% Riso Italiano Integrale 1 Kg",
+        "price":"4.65",
+        "brand":"Le Stagioni d'Italia",
+        "category":"riso",
+        "ean":"8056324081043"
+    },
+    {
+        "search_query":"riso",
+        "name":"Il Buon Riso riso Carnaroli 1 kg",
+        "price":"6.99",
+        "brand":"Il Buon Riso",
+        "category":"riso",
+        "ean":"8007793000301"
+    },
+    {
+        "search_query":"riso",
+        "name":"Tocco D'Oro Gran Risotto allo zafferano 270 g",
+        "price":"4.49",
+        "brand":"Tocco D'Oro",
+        "category":"riso",
+        "ean":"8058697450006"
+    },
+    {
+        "search_query":"riso",
+        "name":"Barilla Farro italiano 400g",
+        "price":"3.55",
+        "brand":"Barilla",
+        "category":"riso",
+        "ean":"8076809572910"
+    },
+    {
+        "search_query":"olio di oliva",
+        "name":"Bertolli Olio di Oliva 1 L",
+        "price":"3.99",
+        "brand":"Bertolli",
+        "category":"olio_di_oliva",
+        "ean":"8000606107341"
+    },
+    {
+        "search_query":"olio di oliva",
+        "name":"Dante Classico Olio di Oliva 1 L",
+        "price":"10.30",
+        "brand":"Dante",
+        "category":"olio_di_oliva",
+        "ean":"8000010000023"
+    },
+    {
+        "search_query":"olio di oliva",
+        "name":"Carrefour Classic Olio di Oliva Composto da Oli di Oliva Raffinati e Oli di Oliva Vergini 1 L",
+        "price":"5.89",
+        "brand":"Carrefour",
+        "category":"olio_di_oliva",
+        "ean":"8012666031245"
+    },
+    {
+        "search_query":"olio di oliva",
+        "name":"Sasso Olio Sasso Olio di Oliva 1 L",
+        "price":"9.19",
+        "brand":"Sasso",
+        "category":"olio_di_oliva",
+        "ean":"8002470029972"
+    },
+    {
+        "search_query":"olio di oliva",
+        "name":"Filippo Berio Oliva Olio di Oliva Composto di Oli di Oliva Raffinati e Oli di Oliva Vergini 1 L",
+        "price":"8.29",
+        "brand":"Filippo Berio",
+        "category":"olio_di_oliva",
+        "ean":"8002210131729"
+    },
+    {
+        "search_query":"olio di oliva",
+        "name":"Carrefour Classic Olio di Oliva Composto di Oli di Oliva Raffinati e Oli di Oliva Vergini 500 ml",
+        "price":"3.19",
+        "brand":"Carrefour",
+        "category":"olio_di_oliva",
+        "ean":"8012666031238"
+    },
+    {
+        "search_query":"olio di oliva",
+        "name":"Dante Uliveto al Sole Olio di Oliva 750 ml",
+        "price":"7.99",
+        "brand":"Dante",
+        "category":"olio_di_oliva",
+        "ean":"8033576192697"
+    },
+    {
+        "search_query":"olio di oliva",
+        "name":"Delizie di Calabria Gocce Piccanti Condimento a base di olio di oliva e peperoncino piccante 250 ml",
+        "price":"9.59",
+        "brand":"Delizie di Calabria",
+        "category":"olio_di_oliva",
+        "ean":"8007548003144"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Caputo Nuvola Farina di Grano Tenero Tipo \"0\" 1 Kg",
+        "price":"2.69",
+        "brand":"Caputo",
+        "category":"farina_bianca",
+        "ean":"8014601012456"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Barilla Farina Tipo \"00\" di Grano Tenero 1000 g",
+        "price":"1.25",
+        "brand":"Barilla",
+        "category":"farina_bianca",
+        "ean":"8076802795019"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Carrefour Classic Farina di Grano Tenero Tipo \"00\" 1 kg",
+        "price":"0.75",
+        "brand":"Carrefour",
+        "category":"farina_bianca",
+        "ean":"8012666020416"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Caputo Pizzeria Farina di Grano Tenero Tipo \"00\" 1 Kg",
+        "price":"1.85",
+        "brand":"Caputo",
+        "category":"farina_bianca",
+        "ean":"8014601036100"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Caputo Manitoba Oro Farina di Grano Tenero Tipo \"0\" 1 Kg",
+        "price":"1.49",
+        "brand":"Caputo",
+        "category":"farina_bianca",
+        "ean":"8014601034168"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Carrefour Bio Farina di grano tenero tipo \"00\" 1000 g",
+        "price":"1.35",
+        "brand":"Carrefour Bio",
+        "category":"farina_bianca",
+        "ean":"8001350020221"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Caputo Pasticceria Farina di Grano Tenero Tipo \"00\" 1 Kg",
+        "price":"1.99",
+        "brand":"Caputo",
+        "category":"farina_bianca",
+        "ean":"8014601011565"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Carrefour Classic Farina di Grano Tenero Tipo \"0\" per Dolci 1 kg",
+        "price":"0.89",
+        "brand":"Carrefour",
+        "category":"farina_bianca",
+        "ean":"8012666046508"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Carrefour Classic Farina di Grano Tenero Tipo \"0\" Manitoba 1 kg",
+        "price":"1.19",
+        "brand":"Carrefour",
+        "category":"farina_per_preparati_salati",
+        "ean":"8012666020430"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Carrefour Classic Farina di Grano Tenero Tipo \"00\" Antigrumi 1 kg",
+        "price":"1.05",
+        "brand":"Carrefour",
+        "category":"farina_bianca",
+        "ean":"8012666047529"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Caputo Saccorosso Farina di Grano Tenero Tipo \"00\" 25 kg",
+        "price":"23.80",
+        "brand":"Caputo",
+        "category":"farina_bianca",
+        "ean":"8014601250322"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Caputo Pizzeria Farina di Grano Tenero Tipo \"00\" 25 kg",
+        "price":"24.20",
+        "brand":"Caputo",
+        "category":"farina_bianca",
+        "ean":"8014601250315"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Barilla Farina Tipo \"0\" Tipo Manitoba 1000 g",
+        "price":"2.15",
+        "brand":"Barilla",
+        "category":"farina_bianca",
+        "ean":"8076809574402"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Caputo Pasta fresca e gnocchi Farina di Grano Tenero Tipo \"00\" 1 Kg",
+        "price":"1.89",
+        "brand":"Caputo",
+        "category":"farina_bianca",
+        "ean":"8014601027153"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Le Farine Magiche Milleusi Farina tipo \"00\" 1000 g",
+        "price":"1.39",
+        "brand":"Le Farine Magiche",
+        "category":"farina_bianca",
+        "ean":"8009355003423"
+    },
+    {
+        "search_query":"farina 00",
+        "name":"Caputo Alba Farina di Grano Tenero Tipo \"00\" 1 Kg",
+        "price":"1.95",
+        "brand":"Caputo",
+        "category":"altre_farine",
+        "ean":"8014601012609"
+    },
+    {
+        "search_query":"zucchero semolato",
+        "name":"Carrefour Classic Zucchero Semolato Bianco 1 Kg",
+        "price":"1.09",
+        "brand":"Carrefour",
+        "category":"zucchero",
+        "ean":"8012666009879"
+    },
+    {
+        "search_query":"zucchero semolato",
+        "name":"Italia Zuccheri - zucchero semolato 100% italiano da agricoltura sostenibile 1kg",
+        "price":"1.25",
+        "brand":"Italia Zuccheri",
+        "category":"zucchero",
+        "ean":"8032605211002"
+    },
+    {
+        "search_query":"zucchero semolato",
+        "name":"Carrefour Classic Zucchero Semolato Bianco 100 x 5 g",
+        "price":"1.79",
+        "brand":"Carrefour",
+        "category":"zucchero",
+        "ean":"8012666020324"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza crema e gusto Classico Caffè Macinato 4 x 250 g",
+        "price":"10.89",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"8000070038042"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza A Modo Mio crema e gusto Classico 72 Capsule 540 g",
+        "price":"16.99",
+        "brand":"Lavazza A Modo Mio",
+        "category":"caffè_in_cialde_e_capsule_compatibili",
+        "ean":"8000070069992"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza A Modo Mio Qualità Rossa 72 Capsule 540 g",
+        "price":"16.99",
+        "brand":"Lavazza A Modo Mio",
+        "category":"caffè_in_cialde_e_capsule_compatibili",
+        "ean":"8000070070011"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza A Modo Mio Passionale 72 Capsule 540 g",
+        "price":"16.99",
+        "brand":"Lavazza A Modo Mio",
+        "category":"caffè_in_cialde_e_capsule_compatibili",
+        "ean":"8000070070004"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza crema e gusto Classico Caffè Macinato 4 x 250 g",
+        "price":"10.89",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"8000070038042"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Carrefour Classic Caffè Gusto e Aroma Gusto Rotondo 250 g",
+        "price":"3.25",
+        "brand":"Carrefour",
+        "category":"caffè_macinato",
+        "ean":"8012666017126"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza Qualità Rossa Caffè Macinato 4 x 250 g",
+        "price":"21.40",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"8000070036246"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza crema e gusto Ricco 4 x 250 g",
+        "price":"11.99",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"8000070040045"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"illy Tostato Classico Caffè Macinato Ideale per Espresso 250 g",
+        "price":"7.19",
+        "brand":"illy",
+        "category":"caffè_macinato",
+        "ean":"8003753900438"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Carrefour Classic Caffè Gusto e Aroma Gusto Forte 250 g",
+        "price":"3.25",
+        "brand":"Carrefour",
+        "category":"caffè_macinato",
+        "ean":"8012666029884"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Carrefour Classic Caffè Espresso Cremoso 250 g",
+        "price":"3.59",
+        "brand":"Carrefour",
+        "category":"caffè_macinato",
+        "ean":"8012666028993"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Carrefour Classic Caffè Gusto e Aroma Gusto Rotondo 2 x 250 g",
+        "price":"5.69",
+        "brand":"Carrefour",
+        "category":"caffè_macinato",
+        "ean":"8012666011599"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza crema e gusto Classico Caffè Macinato 2 x 250 g",
+        "price":"9.99",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"8000070038028"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Caffè Vergnano 1882 Granaroma Miscela Classica Macinatura Moka 2 x 250 g",
+        "price":"8.99",
+        "brand":"Caffè Vergnano 1882",
+        "category":"caffè_macinato",
+        "ean":"8001800001954"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza crema e gusto Dolce Caffè Macinato 2 x 250 g",
+        "price":"10.50",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"8000070037328"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza Qualità Rossa Caffè Macinato 2 x 250 g",
+        "price":"11.60",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"8000070036253"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"illy Tostato Classico Caffè Macinato Ideale per Moka 185 g",
+        "price":"6.29",
+        "brand":"illy",
+        "category":"caffè_macinato",
+        "ean":"8003753198293"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Carrefour Classic Miscela Tradizionale 250 g",
+        "price":"3.75",
+        "brand":"Carrefour",
+        "category":"caffè_macinato",
+        "ean":"8012666017119"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"illy Tostato Classico Caffè Macinato Ideale per Moka 250 g",
+        "price":"7.19",
+        "brand":"illy",
+        "category":"caffè_macinato",
+        "ean":"8003753915050"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Top Pellini Originale Macinato Moka & Filtro 250 g",
+        "price":"5.49",
+        "brand":"Top Pellini",
+        "category":"caffè_macinato",
+        "ean":"8001685093228"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza Qualità Oro Caffè Macinato 2 x 250 g",
+        "price":"15.40",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"8000070012233"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Carrefour Caffè classico Miscela tradizionale 2 x 250 g",
+        "price":"5.69",
+        "brand":"Carrefour",
+        "category":"caffè_macinato",
+        "ean":"8012666011612"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Pellini Vellutato Macinato Espresso 2 x 250 g",
+        "price":"9.99",
+        "brand":"Pellini",
+        "category":"caffè_macinato",
+        "ean":"8001685122478"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Classic Caffe 100% Arabica 250 g",
+        "price":"4.99",
+        "brand":"Carrefour",
+        "category":"caffè_macinato",
+        "ean":"8012666028047"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Pellini Vivace Tradizionale Gusto Classico Macinato Moka & Filtro 2 x 250 g",
+        "price":"7.49",
+        "brand":"Pellini",
+        "category":"caffè_macinato",
+        "ean":"8001685122461"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Splendid Classico 2 x 250g",
+        "price":"7.89",
+        "brand":"Splendid",
+        "category":"caffè_macinato",
+        "ean":"8711000529140"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Kimbo Macinato Fresco 2 x 250 g",
+        "price":"10.60",
+        "brand":"Kimbo",
+        "category":"caffè_macinato",
+        "ean":"8002200163136"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza crema e gusto Dolce Caffè Macinato 250 g",
+        "price":"6.35",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"8000070037304"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Bialetti Caffè Macinato Perfetto Moka Classico 250 g",
+        "price":"5.15",
+        "brand":"Bialetti",
+        "category":"caffè_macinato",
+        "ean":"8006363031646"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Splendid Espresso 500g",
+        "price":"7.89",
+        "brand":"Splendid",
+        "category":"caffè_macinato",
+        "ean":"8711000528815"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"illy Tostato Intenso Caffè Macinato Ideale per Moka 185 g",
+        "price":"6.29",
+        "brand":"illy",
+        "category":"caffè_macinato",
+        "ean":"8003753198316"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Caffè Vergnano 1882 Espressocasa Miscela Selezionata Macinatura Espresso 250 g",
+        "price":"5.69",
+        "brand":"Caffè Vergnano 1882",
+        "category":"caffè_macinato",
+        "ean":"8001800001664"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Kimbo Espresso Napoletano 250 g",
+        "price":"6.10",
+        "brand":"Kimbo",
+        "category":"caffè_macinato",
+        "ean":"8002200163310"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza crema e gusto Forte Caffè Macinato 2 x 250 g",
+        "price":"10.10",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"8000070038424"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"illy Arabica Selection Brasile Cerrado Mineiro Caffè Macinato 250 g",
+        "price":"8.39",
+        "brand":"illy",
+        "category":"caffè_macinato",
+        "ean":"8003753215006"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Caffè Vergnano 1882 Granaroma Miscela Classica Macinatura Moka 4 x 250 g",
+        "price":"19.99",
+        "brand":"Caffè Vergnano 1882",
+        "category":"caffè_macinato",
+        "ean":"8001800001947"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Kimbo Gusto di Napoli 4 x 250 g",
+        "price":"21.49",
+        "brand":"Kimbo",
+        "category":"caffè_macinato",
+        "ean":"8002200107147"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"illy Albero Natale Tostato Classico, Arabica Selection Brasile, Arabica Selection Guatemala 3 x 125g",
+        "price":"16.90",
+        "brand":"illy",
+        "category":"caffè_macinato",
+        "ean":"8003753216751"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"illy Arabica Selection Brasile, Arabica Selection Guatemala 2 x 125 g",
+        "price":"10.80",
+        "brand":"illy",
+        "category":"caffè_macinato",
+        "ean":"8003753239057"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza crema e gusto Forte Caffè Macinato 4 x 250 g",
+        "price":"20.49",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"8000070038448"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Kimbo Macinato Fresco Espresso Capsule Compatibili con le Macchine Nespresso* 2 x 165 g",
+        "price":"9.99",
+        "brand":"Kimbo",
+        "category":"caffè_in_cialde_e_capsule_compatibili",
+        "ean":"8002200141868"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Caffè HAG Classico macinato Decaffeinato 250 g",
+        "price":"4.95",
+        "brand":"Caffè HAG",
+        "category":"caffè_decaffeinato_e_orzo",
+        "ean":"8711000483817"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Caffè HAG Espresso macinato Decaffeinato 250g",
+        "price":"4.95",
+        "brand":"Caffè HAG",
+        "category":"caffè_decaffeinato_e_orzo",
+        "ean":"8711000483848"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Kimbo Macinato Fresco Capsule Compatibili con Macchine Nespresso* Original 30 x 5,5 g",
+        "price":"9.29",
+        "brand":"Kimbo",
+        "category":"caffè_in_cialde_e_capsule_compatibili",
+        "ean":"8002200141875"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Caffè HAG Classico Caffè macinato Decaffeinato 2x250g",
+        "price":"6.95",
+        "brand":"Caffè HAG",
+        "category":"caffè_decaffeinato_e_orzo",
+        "ean":"8711000483961"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Carrefour Classic Orzo Macinato 500 g",
+        "price":"1.19",
+        "brand":"Carrefour",
+        "category":"caffè_decaffeinato_e_orzo",
+        "ean":"8012666013548"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza Decaf Classico Caffè Macinato 2 x 250 g",
+        "price":"11.00",
+        "brand":"Lavazza",
+        "category":"caffè_decaffeinato_e_orzo",
+        "ean":"8000070011229"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza Decaf Intenso Caffè Macinato 250 g",
+        "price":"4.99",
+        "brand":"Lavazza",
+        "category":"caffè_decaffeinato_e_orzo",
+        "ean":"8000070011403"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza iTierra! Bio-Organic For Planet Caffè Macinato 180 g",
+        "price":"6.55",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"8000070022225"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Lavazza Qualità Oro Caffè Macinato 250 g",
+        "price":"7.99",
+        "brand":"Lavazza",
+        "category":"caffè_macinato",
+        "ean":"0000080007104"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Kimbo Aroma Italiano 2 x 250 g",
+        "price":"10.60",
+        "brand":"Kimbo",
+        "category":"caffè_macinato",
+        "ean":"8002200502119"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Segafredo Zanetti Intermezzo 2 x 250 g",
+        "price":"8.39",
+        "brand":"Segafredo Zanetti",
+        "category":"caffè_macinato",
+        "ean":"8003410247678"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Caffè Vergnano 1882 Anticabottega Miscela Oro Macinatura Moka 2 x 250 g",
+        "price":"13.00",
+        "brand":"Caffè Vergnano 1882",
+        "category":"caffè_macinato",
+        "ean":"8001800001879"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"Bialetti Caffè Macinato Perfetto Moka Deka 250 g",
+        "price":"5.15",
+        "brand":"Bialetti",
+        "category":"caffè_macinato",
+        "ean":"8006363031660"
+    },
+    {
+        "search_query":"caffè macinato",
+        "name":"illy Decaffeinato Caffè Macinato Decaffeinato per Tutte le Preparazioni 250 g",
+        "price":"7.19",
+        "brand":"illy",
+        "category":"caffè_decaffeinato_e_orzo",
+        "ean":"8003753900490"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Napolina Polpa di Pomodoro in Pezzi 400 g",
+        "price":"0.55",
+        "brand":"Napolina",
+        "category":"polpa_e_pelati",
+        "ean":"8030705019412"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Mutti Polpa di Pomodoro 2 x 210 g",
+        "price":"1.99",
+        "brand":"Mutti",
+        "category":"polpa_e_pelati",
+        "ean":"8005110170324"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Mutti Polpa di Pomodoro 3 x 400 g",
+        "price":"3.39",
+        "brand":"Mutti",
+        "category":"polpa_e_pelati",
+        "ean":"8005110170300"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Carrefour Classic Polpa di Pomodoro in Succo di Pomodoro 3 x 400 g",
+        "price":"1.69",
+        "brand":"Carrefour",
+        "category":"polpa_e_pelati",
+        "ean":"8012666007653"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Simpl Polpa di Pomodoro in Succo di Pomodoro 3 x 400 g",
+        "price":"1.65",
+        "brand":"Simpl",
+        "category":"polpa_e_pelati",
+        "ean":"8012666060061"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Carrefour Classic Polpa di Pomodoro in Succo di Pomodoro  680 g",
+        "price":"0.89",
+        "brand":"Carrefour",
+        "category":"polpa_e_pelati",
+        "ean":"8012666053902"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Mutti Polpa Rustica di pomodoro 690 g",
+        "price":"2.39",
+        "brand":"Mutti",
+        "category":"polpa_e_pelati",
+        "ean":"8005110171215"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Carrefour Bio Polpa di pomodoro in succo di pomodoro 690 g",
+        "price":"1.69",
+        "brand":"Carrefour Bio",
+        "category":"polpa_e_pelati",
+        "ean":"8012666064250"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Carrefour Classic Polpa Fine di Pomodoro in Succo di Pomodoro 3 x 400 g",
+        "price":"1.85",
+        "brand":"Carrefour",
+        "category":"polpa_e_pelati",
+        "ean":"8012666053766"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Petti \"Il polposissimo\" - polpa di pomodoro finissima - Pomodoro toscano - 2x400g",
+        "price":"2.69",
+        "brand":"Petti",
+        "category":"polpa_e_pelati",
+        "ean":"8003496560036"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Carrefour Classic Pomodorini in Succo di Pomodoro 400 g",
+        "price":"1.09",
+        "brand":"Carrefour",
+        "category":"polpa_e_pelati",
+        "ean":"8012666007646"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Galbani Santa Lucia Nuvola la Leggera Spalmabile fresco 180 g",
+        "price":"1.70",
+        "brand":"Galbani",
+        "category":"ricotta,_stracchino_e_formaggi_spalmabili",
+        "ean":"8000430194555"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Galbani Santa Lucia Nuvola Spalmabile fresco 180 g",
+        "price":"1.49",
+        "brand":"Galbani",
+        "category":"ricotta,_stracchino_e_formaggi_spalmabili",
+        "ean":"8000430194401"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Mutti Sugo con Pomodoro Rossoro e con Basilico Genovese DOP 280 g",
+        "price":"2.19",
+        "brand":"Mutti",
+        "category":"pesto_e_sughi_pronti",
+        "ean":"8005110513053"
+    },
+    {
+        "search_query":"polpa di pomodoro",
+        "name":"Philadelphia Original Formaggio Fresco cremoso Vaschetta 250g",
+        "price":"2.29",
+        "brand":" Philadelphia",
+        "category":"ricotta,_stracchino_e_formaggi_spalmabili",
+        "ean":"8001590640258"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Mareblu Tonno all'Olio d'Oliva 4 x 60 g",
+        "price":"4.65",
+        "brand":"Mareblu",
+        "category":"tonno_sott'olio",
+        "ean":"8054729871122"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Capri Tonno all'Olio di Girasole 160 g",
+        "price":"1.39",
+        "brand":"Capri",
+        "category":"tonno_sott'olio",
+        "ean":"8001820080212"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Mareblu Tonno all'Olio Extra Vergine di Oliva 3 x 60 g",
+        "price":"4.69",
+        "brand":"Mareblu",
+        "category":"tonno_sott'olio",
+        "ean":"8054729871498"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Rio mare Tonno all'Olio Extra Vergine di Oliva 3 x 65 g",
+        "price":"4.85",
+        "brand":"Rio mare",
+        "category":"tonno_sott'olio",
+        "ean":"8004030271432"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Capri Tonno all'Olio di Girasole Gusto Piccante 3 x 80 g",
+        "price":"2.69",
+        "brand":"Capri",
+        "category":"tonno_sott'olio",
+        "ean":"8001820980413"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Princes Tonno a Pinne Gialle all'Olio d'Oliva 3 x 80 g",
+        "price":"3.49",
+        "brand":"Princes",
+        "category":"tonno_sott'olio",
+        "ean":"5000232625748"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Callipo Filetti di Tonno all'olio extravergine di oliva biologico 176 g",
+        "price":"8.69",
+        "brand":"Callipo",
+        "category":"tonno_sott'olio",
+        "ean":"8001561012398"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Rio mare Filetti di Tonno all'Olio Extra Vergine di Oliva 180 g",
+        "price":"5.27",
+        "brand":"Rio mare",
+        "category":"tonno_sott'olio",
+        "ean":"8004030655072"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Carrefour Tonno pinne gialle all'olio extra vergine di oliva 2 x 80 g",
+        "price":"2.65",
+        "brand":"Carrefour",
+        "category":"tonno_sott'olio",
+        "ean":"3560070450589"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Carrefour Tonno a pinne gialle all'olio d'oliva 6 x 80 g",
+        "price":"6.19",
+        "brand":"Carrefour",
+        "category":"tonno_sott'olio",
+        "ean":"3560070366811"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Asdomar Filetti di Tonno all'olio extravergine di oliva Biologico 150 g",
+        "price":"5.79",
+        "brand":"Asdomar",
+        "category":"tonno_sott'olio",
+        "ean":"8003294526708"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Rio mare Filetto di Salmone all'Olio Extra Vergine di Oliva al Vapore 125 g",
+        "price":"5.49",
+        "brand":"Rio mare",
+        "category":"filetti_di_salmone",
+        "ean":"8004030525047"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Maruzzella Tonno Pinne Gialle all'olio di girasole 6 x 80 g",
+        "price":"8.99",
+        "brand":"Maruzzella",
+        "category":"tonno_sott'olio",
+        "ean":"8001820981106"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Tonno Nostromo ApriegiraFacile Basso in Sale all'olio extravergine di oliva 3 x 65 g",
+        "price":"3.79",
+        "brand":"Nostromo",
+        "category":"tonno_sott'olio",
+        "ean":"8005850251048"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Princes Filetti di Tonno all'Olio Extra Vergine di Oliva 180 g",
+        "price":"5.49",
+        "brand":"Princes",
+        "category":"tonno_sott'olio",
+        "ean":"5000232625830"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Asdomar Gusto Gentile Tonno all'olio di Semi di Girasole 3 x 70 g",
+        "price":"2.79",
+        "brand":"Asdomar",
+        "category":"tonno_sott'olio",
+        "ean":"8003294820110"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Asdomar Filetti di Tonno all'olio extravergine di oliva Biologico 250 g",
+        "price":"8.49",
+        "brand":"Asdomar",
+        "category":"tonno_sott'olio",
+        "ean":"8003294526715"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Mareblu Filetti di Tonno all'Olio Extra Vergine di Oliva 180 g",
+        "price":"5.85",
+        "brand":"Mareblu",
+        "category":"tonno_sott'olio",
+        "ean":"8054729871719"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Capri Linea Catering Maruzzella Tonno all'Olio di Girasole 1000 g",
+        "price":"6.99",
+        "brand":"Capri",
+        "category":"tonno_sott'olio",
+        "ean":"8001820082223"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Nostromo Una Goccia d'olio il Morbido Tonno all'Olio di Semi di Girasole e Extravergine 6 x 65 g",
+        "price":"6.99",
+        "brand":"Nostromo",
+        "category":"tonno_sott'olio",
+        "ean":"8005850251543"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Capri Tonno all'Olio di Girasole 1730 g",
+        "price":"10.99",
+        "brand":"Capri",
+        "category":"tonno_sott'olio",
+        "ean":"8001820080274"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Rio mare Tonno all'Olio Extra Vergine di Oliva Biologico 3 x 65 g + 1 Gratis",
+        "price":"6.89",
+        "brand":"Rio mare",
+        "category":"tonno_sott'olio",
+        "ean":"8004030107007"
+    },
+    {
+        "search_query":"tonno all'olio",
+        "name":"Philadelphia Original Formaggio Fresco cremoso Vaschetta 250g",
+        "price":"2.29",
+        "brand":" Philadelphia",
+        "category":"ricotta,_stracchino_e_formaggi_spalmabili",
+        "ean":"8001590640258"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"FITNESS Granola Cioccolato con Avena e Cereali Integrali 300g",
+        "price":"1.99",
+        "brand":"FITNESS",
+        "category":"cereali_classici",
+        "ean":"7613035619425"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"FITNESS Original Cereali Integrali 625g",
+        "price":"5.25",
+        "brand":"FITNESS",
+        "category":"cereali_benessere",
+        "ean":"3387390325911"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"COOKIE CRISP Cereali a forma di biscotto cookie 260g",
+        "price":"1.75",
+        "brand":"COOKIE CRISP",
+        "category":"cereali_classici",
+        "ean":"7613034356468"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"FITNESS Granola Miele con Avena e Cereali Integrali 300g",
+        "price":"1.99",
+        "brand":"FITNESS",
+        "category":"cereali_classici",
+        "ean":"7613035619456"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"FITNESS Original Cereali Integrali 375g",
+        "price":"1.99",
+        "brand":"FITNESS",
+        "category":"cereali_benessere",
+        "ean":"3387390331974"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Granarolo Latte Intero UHT a Lunga Conservazione 1 L",
+        "price":"1.85",
+        "brand":"Granarolo",
+        "category":"latte_uht",
+        "ean":"8002670169607"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Granarolo Intero Pastorizzato a Temperatura Elevata 1 L",
+        "price":"1.89",
+        "brand":"Granarolo",
+        "category":"latte_fresco",
+        "ean":"8002670165708"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Giglio Latte Intero 500 ml",
+        "price":"0.95",
+        "brand":"Giglio",
+        "category":"latte_uht",
+        "ean":"8030705010174"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Giglio Latte Intero 1000 ml",
+        "price":"1.69",
+        "brand":"Giglio",
+        "category":"latte_uht",
+        "ean":"8030705000427"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Alpe Verde latte intero 1 L",
+        "price":"0.86",
+        "brand":"Alpe Verde",
+        "category":"latte_uht",
+        "ean":"8009095232138"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"mila Latte Fieno di Montagna intero 1000 ml",
+        "price":"1.95",
+        "brand":"mila",
+        "category":"latte_fresco",
+        "ean":"8001790444137"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Granarolo Intero Pastorizzato a Temperatura Elevata 1,5 L",
+        "price":"2.79",
+        "brand":"Granarolo",
+        "category":"latte_fresco",
+        "ean":"8002670164893"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Carnini Latte Intero UHT il Lungadurata 1000 ml",
+        "price":"1.99",
+        "brand":"Carnini",
+        "category":"latte_uht",
+        "ean":"8006250003015"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Carnini Latte Intero Pastorizzato a temperatura elevata Lombardo 1000 ml",
+        "price":"1.99",
+        "brand":"Carnini",
+        "category":"latte_fresco",
+        "ean":"8002580321294"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Granarolo Latte Più Giorni Intero 1 L",
+        "price":"1.95",
+        "brand":"Granarolo",
+        "category":"latte_fresco",
+        "ean":"8002670165579"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Polenghi Lombardo Latte 100% italiano Intero 500 ml",
+        "price":"0.79",
+        "brand":"Polenghi Lombardo",
+        "category":"latte_uht",
+        "ean":"8030705017852"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Polenghi Lombardo Latte 100% italiano Intero 1 L",
+        "price":"1.35",
+        "brand":"Polenghi Lombardo",
+        "category":"latte_uht",
+        "ean":"8030705017548"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Granarolo Bio Latte Biologico Intero 1 L",
+        "price":"1.99",
+        "brand":"Granarolo Bio",
+        "category":"latte_fresco",
+        "ean":"8002670165760"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"parmalat Bontà e Gusto con Vitamina D Latte Intero 100% Latte d'Italia 1000 ml",
+        "price":"1.95",
+        "brand":"parmalat",
+        "category":"latte_uht",
+        "ean":"8002580018446"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Polenghi Lombardo Bio Latte Intero 1 L",
+        "price":"1.65",
+        "brand":"Polenghi Lombardo",
+        "category":"latte_uht",
+        "ean":"8030705018651"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"parmalat Bontà e Gusto con Vitamina D Latte Intero 100% Latte d'Italia 500 ml",
+        "price":"1.19",
+        "brand":"parmalat",
+        "category":"latte_uht",
+        "ean":"8002580018569"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Polenghi Lombardo Bio Latte Intero 500 ml",
+        "price":"1.05",
+        "brand":"Polenghi Lombardo",
+        "category":"latte_fresco",
+        "ean":"8030705017913"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Carrefour Classic Latte UHT di Capra Intero 1000 ml",
+        "price":"2.99",
+        "brand":"Carrefour",
+        "category":"latte_uht",
+        "ean":"8012666072316"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"parmalat Bontà e Gusto con Vitamina D Latte Intero 100% Latte d'Italia 250 ml",
+        "price":"0.99",
+        "brand":"parmalat",
+        "category":"latte_uht",
+        "ean":"8002580020562"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Centrale del Latte Milano Latte UHT Intero 1 litro",
+        "price":"1.79",
+        "brand":"Centrale del Latte Milano",
+        "category":"latte_uht",
+        "ean":"8007400000106"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Carnini Latte Intero Lombardo Microfiltrato Pastorizzato 500 ml",
+        "price":"1.19",
+        "brand":"Carnini",
+        "category":"latte_fresco",
+        "ean":"0000080276715"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Carnini Latte Intero Lombardo Microfiltrato Pastorizzato 1500 ml",
+        "price":"2.79",
+        "brand":"Carnini",
+        "category":"latte_fresco",
+        "ean":"8002580008119"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Granarolo Gusto di una volta Latte Intero 1 L",
+        "price":"2.15",
+        "brand":"Granarolo",
+        "category":"latte_fresco",
+        "ean":"8002670162981"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Polenghi Lombardo Latte 100% italiano Intero 1 L",
+        "price":"1.49",
+        "brand":"Polenghi Lombardo",
+        "category":"latte_fresco",
+        "ean":"8030705019658"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Amalattea Latte di Capra 100% Italiano Intero 500 ml",
+        "price":"2.19",
+        "brand":"Amalattea",
+        "category":"latte_fresco",
+        "ean":"8026523000435"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Milka Choco Brownie, merendina al cioccolato al latte - 6x25g",
+        "price":"1.99",
+        "brand":"Milka",
+        "category":"snack_dolci",
+        "ean":"7622210635396"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Granarolo expert Linea Bar Latte Intero 1 L",
+        "price":"2.25",
+        "brand":"Granarolo",
+        "category":"latte_fresco",
+        "ean":"8002670163742"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"parmalat Dura di Più Intero 1000 ml",
+        "price":"1.89",
+        "brand":"parmalat",
+        "category":"latte_fresco",
+        "ean":"8002580322079"
+    },
+    {
+        "search_query":"latte intero",
+        "name":"Carnini Latte Lombardo Microfiltrato Pastorizzato Dura di Più Intero 1000 ml",
+        "price":"1.99",
+        "brand":"Carnini",
+        "category":"latte_fresco",
+        "ean":"8002580009604"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"FITNESS Granola Cioccolato con Avena e Cereali Integrali 300g",
+        "price":"1.99",
+        "brand":"FITNESS",
+        "category":"cereali_classici",
+        "ean":"7613035619425"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"FITNESS Protein Cacao Barrette di Cereali al Cacao 4 pezzi da 20g",
+        "price":"2.59",
+        "brand":"FITNESS",
+        "category":"barrette_ai_cereali_e_snack_proteici",
+        "ean":"5900020043832"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"FITNESS Original Cereali Integrali 375g",
+        "price":"1.99",
+        "brand":"FITNESS",
+        "category":"cereali_benessere",
+        "ean":"3387390331974"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"FITNESS Original Cereali Integrali 625g",
+        "price":"5.25",
+        "brand":"FITNESS",
+        "category":"cereali_benessere",
+        "ean":"3387390325911"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"COOKIE CRISP Cereali a forma di biscotto cookie 260g",
+        "price":"1.75",
+        "brand":"COOKIE CRISP",
+        "category":"cereali_classici",
+        "ean":"7613034356468"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Polenghi Lombardo Yogurt Intero Cremoso Bianco 2 x 125 g",
+        "price":"0.79",
+        "brand":"Polenghi Lombardo",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8030705004937"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Bianco Crema di Yogurt 500 g",
+        "price":"1.29",
+        "brand":"müller",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"4025500001001"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Sterzing Vipiteno Yogurt intero Bianco 2 x 125 g",
+        "price":"0.89",
+        "brand":"Sterzing Vipiteno",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8007735002400"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fage Total Senza Lattosio 0% Grassi 150 g",
+        "price":"1.95",
+        "brand":"Fage",
+        "category":"yogurt_magro",
+        "ean":"5201054019016"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Passione alla Greca Bianco Naturale Yogurt Magro Colato 150 g",
+        "price":"1.35",
+        "brand":"müller",
+        "category":"yogurt_magro",
+        "ean":"4025500205379"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Sterzing Vipiteno 0,1% Grassi Yogurt Magro Bianco 2 x 125 g",
+        "price":"0.89",
+        "brand":"Sterzing Vipiteno",
+        "category":"yogurt_magro",
+        "ean":"8007735005906"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ZYMIL Alta Digeribilità Senza Lattosio Yogurt alla Greca Zero Grassi Bianco 150g",
+        "price":"1.39",
+        "brand":"ZYMIL",
+        "category":"yogurt_magro",
+        "ean":"8002580014431"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Extra Yogurt Greco Intero Bianco 170 g",
+        "price":"1.35",
+        "brand":"Carrefour",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8012666054565"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Extra Yogurt Greco Magro Bianco 170 g",
+        "price":"1.35",
+        "brand":"Carrefour",
+        "category":"yogurt_magro",
+        "ean":"8012666051236"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Extra Yogurt Greco Magro Bianco 1 kg",
+        "price":"4.99",
+        "brand":"Carrefour",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8012666070473"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Extra Yogurt Greco Magro Bianco 500 g",
+        "price":"2.99",
+        "brand":"Carrefour",
+        "category":"yogurt_magro",
+        "ean":"8012666054572"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Polenghi Lombardo Yogurt Magro Zero Grassi Bianco 2 x 125 g",
+        "price":"0.79",
+        "brand":"Polenghi Lombardo",
+        "category":"yogurt_magro",
+        "ean":"8030705004968"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fage Total 0% Grassi 450 g",
+        "price":"3.99",
+        "brand":"Fage",
+        "category":"yogurt_magro",
+        "ean":"5201054017616"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Milk Kefir Bianco 150 g",
+        "price":"1.05",
+        "brand":"milk",
+        "category":"yogurt_magro",
+        "ean":"8034066307317"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fage Total 0% Grassi 150 g",
+        "price":"1.55",
+        "brand":"Fage",
+        "category":"yogurt_magro",
+        "ean":"5201054017111"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Sterzing Vipiteno bio yogurt da latte fieno bianco 150 g",
+        "price":"0.99",
+        "brand":"Sterzing Vipiteno",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"0000080321637"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Simpl yogurt Bianco intero 500 g",
+        "price":"0.99",
+        "brand":"Simpl",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8012666051151"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Milk Kefir Bianco 400 g",
+        "price":"1.89",
+        "brand":"milk",
+        "category":"yogurt_magro",
+        "ean":"8034066303616"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Sterzing Vipiteno bio Yogurt da Latte Fieno Intero bianco 500 g",
+        "price":"1.99",
+        "brand":"Sterzing Vipiteno",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8007735191159"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Classic No Lactose!* Yogurt Greco Magro Bianco 170 g",
+        "price":"1.35",
+        "brand":"Carrefour",
+        "category":"yogurt_magro",
+        "ean":"8012666067343"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Simpl yogurt Bianco magro 500 g",
+        "price":"0.89",
+        "brand":"Simpl",
+        "category":"yogurt_magro",
+        "ean":"8012666051144"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Delta Yogurt Greco Autentico 0% di Grassi Bianco 150 g",
+        "price":"1.39",
+        "brand":"Delta",
+        "category":"yogurt_magro",
+        "ean":"5201037712439"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fage Total 2% Grassi 150 g",
+        "price":"1.55",
+        "brand":"Fage",
+        "category":"yogurt_magro",
+        "ean":"5201054017128"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Bianco Zero% Grassi 500 g",
+        "price":"1.29",
+        "brand":"müller",
+        "category":"yogurt_magro",
+        "ean":"4025500102203"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Sterzing Vipiteno Yogurt intero Bianco 400 g",
+        "price":"1.39",
+        "brand":"Sterzing Vipiteno",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8007735192736"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Milka Choco Brownie, merendina al cioccolato al latte - 6x25g",
+        "price":"1.99",
+        "brand":"Milka",
+        "category":"snack_dolci",
+        "ean":"7622210635396"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fage Total 5% Grassi 150 g",
+        "price":"1.55",
+        "brand":"Fage",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"5201054017135"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Bianco Crema di Yogurt 8 x 125 g",
+        "price":"3.59",
+        "brand":"müller",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"4025500165017"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fage Total 5% Grassi 450 g",
+        "price":"3.99",
+        "brand":"Fage",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"5201054017630"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Sensation Skyr Bianco 0% di grassi 150 g",
+        "price":"1.15",
+        "brand":"Carrefour",
+        "category":"yogurt_magro",
+        "ean":"8012666059096"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Bianco Zero% Grassi 8 x 125 g",
+        "price":"3.59",
+        "brand":"müller",
+        "category":"yogurt_magro",
+        "ean":"4025500165338"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Classic Yogurt Intero Bianco al Naturale 500 g",
+        "price":"1.29",
+        "brand":"Carrefour",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8012666043569"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fage Total Senza Lattosio 0% Grassi 450 g",
+        "price":"3.99",
+        "brand":"Fage",
+        "category":"yogurt_magro",
+        "ean":"5201054019115"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"mila Yogurt Intero Bianco 1000 g",
+        "price":"3.39",
+        "brand":"mila",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8001790442522"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"DANONE Skyr, Yogurt ispirato all'Islanda, 0% grassi, Cremoso, Ricco in Proteine, Vaniglia, 150g",
+        "price":"0.89",
+        "brand":"Danone",
+        "category":"yogurt_magro",
+        "ean":"8001630012328"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"DANONE Skyr, Yogurt ispirato all'Islanda, 0% grassi, Cremoso, Ricco in Proteine, Bianco, 480g",
+        "price":"3.59",
+        "brand":"Danone",
+        "category":"yogurt_magro",
+        "ean":"8410500031633"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"DANONE Skyr, Yogurt ispirato all'Islanda, 0% grassi,Cremoso,Ricco in Proteine, Pesca&Albicocca, 150g",
+        "price":"0.89",
+        "brand":"Danone",
+        "category":"yogurt_magro",
+        "ean":"8001630012335"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"DANONE Skyr, Yogurt ispirato all'Islanda, 0% grassi, Cremoso, Ricco in Proteine, Fragola,150g",
+        "price":"0.89",
+        "brand":"Danone",
+        "category":"yogurt_magro",
+        "ean":"8001630012311"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Polenghi Lombardo Bianco Dolce Yogurt Intero Cremoso 2 x 125 g",
+        "price":"0.79",
+        "brand":"Polenghi Lombardo",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8030705019351"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Simpl yogurt Bianco intero 150 g",
+        "price":"0.31",
+        "brand":"Simpl",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8012666044382"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Zorbas Yogreko Bio 150 g",
+        "price":"1.49",
+        "brand":"Zorbas",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8013165001258"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Zorbas Yogreko Capra 150 g",
+        "price":"1.79",
+        "brand":"Zorbas",
+        "category":"yogurt_magro",
+        "ean":"8013165009605"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"mila Latte Fieno Bianco 450 g",
+        "price":"1.45",
+        "brand":"mila",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8001790444717"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Bio Yogurt intero 400 g",
+        "price":"1.49",
+        "brand":"Carrefour Bio",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8012666053629"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"mila Yogurt Zero grassi Yogurt Magro Bianco Naturale 1000 g",
+        "price":"3.39",
+        "brand":"mila",
+        "category":"yogurt_magro",
+        "ean":"8001790210251"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Mevgal extra Crema di Yogurt Greco Senza Lattosio 2% Grassi 150 g",
+        "price":"1.49",
+        "brand":"Mevgal",
+        "category":"yogurt_magro",
+        "ean":"5201083333268"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"AlpiYo Yogurt di Valtellina Senza Lattosio Intero Naturale 500 g",
+        "price":"2.59",
+        "brand":"AlpiYò",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8008719003185"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Classic Yogurt Cremoso Bianco 500 g",
+        "price":"1.29",
+        "brand":"Carrefour",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8012666012145"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Amalattea Yogurt di Capra Bianco 2 x 125 g",
+        "price":"2.69",
+        "brand":"Amalattea",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8026523140124"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Bianco Crema di Yogurt 2 x 125 g",
+        "price":"1.29",
+        "brand":"müller",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"4025500281083"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Simpl yogurt Bianco magro 150 g",
+        "price":"0.31",
+        "brand":"Simpl",
+        "category":"yogurt_magro",
+        "ean":"8012666044412"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Zorbas Yogreko Pecora 150 g",
+        "price":"1.79",
+        "brand":"Zorbas",
+        "category":"yogurt_magro",
+        "ean":"8013165001425"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"AlpiYò Yogurt di Valtellina Intero Naturale 125 g",
+        "price":"1.35",
+        "brand":"AlpiYò",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8008719000580"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Classic Yogurt Magro Bianco 500 g",
+        "price":"1.29",
+        "brand":"Carrefour",
+        "category":"yogurt_magro",
+        "ean":"8012666012152"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Mevgal Yogurt Greco 0% Grassi 150 g",
+        "price":"1.49",
+        "brand":"Mevgal",
+        "category":"yogurt_magro",
+        "ean":"5201083329476"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fattoria Scaldasole Bianco Intero yogurt biologico 500 g",
+        "price":"2.99",
+        "brand":"Fattoria Scaldasole",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8010795001016"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Koukaki Dairy Farm Yogurt Greco Colato 0% Grassi 375 g",
+        "price":"3.69",
+        "brand":"Koukaki Dairy Farm",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"5200106871206"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Bianco Zero% Grassi 2 x 125 g",
+        "price":"1.29",
+        "brand":"müller",
+        "category":"yogurt_magro",
+        "ean":"4025500281106"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Latteria Chiuro yogurt Capra Valtellina 150 g",
+        "price":"1.95",
+        "brand":"Latteria Chiuro",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8008719000443"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fattoria Scaldasole Bianco Senza Lattosio yogurt biologico 2 x 115 g",
+        "price":"1.59",
+        "brand":"Fattoria Scaldasole",
+        "category":"yogurt_magro",
+        "ean":"8010795002327"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Yomo Kefir bianco naturale 480 g",
+        "price":"1.49",
+        "brand":"Yomo",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8002670013122"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Yogurt Bianco Più Fiocchi al Cioccolato 150 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000040858470"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Yogurt Bianco Più Nocciole e Cioccolato 150 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000040255040"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Yogurt Bianco Più Wafer al Cioccolato 150 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042208310"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Yogurt Bianco Più Anelli al Cioccolato 150 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042103721"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Bianco Seta con Cuore di Pesca 2 x 125 g",
+        "price":"1.69",
+        "brand":"müller",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"4025500260040"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"alpro Cocco Bianco 120g",
+        "price":"1.65",
+        "brand":"alpro",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"5411188131458"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Soffio Mousse di Bianco Più Lamponi 120 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042333838"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Soffio Mousse di Bianco Più Granella di Pistacchio 120 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042392125"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Milk Kefir Colato 0% Grassi Bianco Naturale 150 g",
+        "price":"1.49",
+        "brand":"milk",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8034066303463"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Këfir Bianco 2 x 125 g",
+        "price":"1.55",
+        "brand":"müller",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"4025500290429"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"NESTLÉ I Love kefir Bianco Naturale 500 g",
+        "price":"1.29",
+        "brand":"NESTLÉ",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"3023290012079"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Këfir Bianco 320 ml",
+        "price":"1.29",
+        "brand":"müller",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"4025500304492"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Sterzing Vipiteno Kefir Bianco Senza Lattosio 150 g",
+        "price":"1.09",
+        "brand":"Sterzing Vipiteno",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8007735198288"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"NESTLÉ I Love kefir Bianco Naturale Zero 500 g",
+        "price":"1.29",
+        "brand":"NESTLÉ",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"3023290076361"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Polenghi Lombardo Kefir Bianco Senza Lattosio 500 ml",
+        "price":"0.99",
+        "brand":"Polenghi Lombardo",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8030705018538"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix 2 Yogurt Bianco Più Anelli al Cioccolato+2 Yogurt Bianco Più Fiocchi al Cioccolato 4x150g",
+        "price":"2.69",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"4025500151720"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Yomo Kefir bianco naturale 2 x 115 g",
+        "price":"1.49",
+        "brand":"Yomo",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8005350012828"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Valsoia Bontà e Salute Yosoi Bianco Cremoso 2 x 125 g",
+        "price":"0.99",
+        "brand":"Valsoia Bontà e Salute",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8006040414069"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Sensation Yogurt Bianco con Anelli di cereali al cioccolato al latte 150 g",
+        "price":"0.95",
+        "brand":"Carrefour",
+        "category":"yogurt_mix",
+        "ean":"8012666043583"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix 2 Yogurt Bianco Più Wafer al Cioccolato+2 Yogurt Bianco Più Stelle al Cioccolato 4x150g",
+        "price":"2.69",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042202219"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Crème de crème Bianco Extra Cremoso Più Fragole 140 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042470526"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Soffio Mousse di Bianco al Caffè 2 x 95 g",
+        "price":"1.75",
+        "brand":"müller",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"4025500283735"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ACTIVIA Fibre e Frutta,Yogurt con Probiotico Bifidus,mix Cereali Bianco\/Pera\/Avena Noci\/Kiwi,8x125g",
+        "price":"4.99",
+        "brand":"Activia",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8001630011307"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Milk Kefir Plus Flora Intestinale Bianco Cereali 4 x1 25 g",
+        "price":"1.99",
+        "brand":"milk",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8034066300578"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"bella vita Yogurt Bianco Magro Senza Lattosio Zero Grassi 1 Kg",
+        "price":"1.99",
+        "brand":"bella vita",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"0000080338697"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Mulino Bianco Plumcake Classico Merenda con Yogurt Italiano 10 pezzi 330g",
+        "price":"1.99",
+        "brand":"Mulino Bianco",
+        "category":"merendine",
+        "ean":"8076809582193"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Soffio Mousse di Bianco Più Fragole 120 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042333821"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Yogurt Bianco Più Fragole 150 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042109907"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Crème de crème Bianco Extra Cremoso Più Cialdine 140 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042470564"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix 2 Yogurt Bianco Più Choco Pillows + 2 Yogurt Bianco Più Triple Chocolate 4 x 150 g",
+        "price":"2.69",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042456063"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Sensation Yogurt Bianco con Croccantini di nocciola al cioccolato al latte 150 g",
+        "price":"0.95",
+        "brand":"Carrefour",
+        "category":"yogurt_mix",
+        "ean":"8012666040513"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ACTIVIA Fibre Mix&Go, Yogurt Bianco, Granola con Miele, con Probiotico Bifidus 170g",
+        "price":"1.39",
+        "brand":"Activia",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8001630009403"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"DANACOL Yogurt da bere, Riduce il Colesterolo grazie agli Steroli Vegetali, Bianco Naturale, 8x100g",
+        "price":"5.79",
+        "brand":"Danacol",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8001630009700"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"bella vita free Senza Lattosio Bianco 2 x 125 g",
+        "price":"1.19",
+        "brand":"bella vita",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8004983001704"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Senza Lattosio Yogurt Cremoso Bianco 2 x 125 g",
+        "price":"1.69",
+        "brand":"müller Senza Lattosio",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"4025500208097"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"bella vita free Yogurt Magro Senza Lattosio Zero Grassi Bianco 2 x 125 g",
+        "price":"1.19",
+        "brand":"bella vita",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8004983001933"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ACTIVIA Fibre, Yogurt con Probiotico Bifidus, 0% Grassi, 0% Zuccheri Aggiunti, Bianco Cereali,4x125g",
+        "price":"2.99",
+        "brand":"Activia",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8001630005979"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"NESTLÉ I Love kefir Pot Bianco Naturale Zero 1x170g",
+        "price":"0.99",
+        "brand":"NESTLÉ",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"3023290086025"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ACTIVIA Yogurt con Probiotico Bifidus, 0% Grassi, 0% Zuccheri Aggiunti, Bianco Naturale, 4x125g",
+        "price":"2.99",
+        "brand":"Activia",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8001630005740"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Polenghi Lombardo Plus Drink Probiotico Bianco 6 x 100 g",
+        "price":"2.55",
+        "brand":"Polenghi Lombardo",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8030705017951"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Milk benessere aiuta a ridurre il Colesterolo in maniera naturale Bianco 4 x 100 g",
+        "price":"2.25",
+        "brand":"milk",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8034066306501"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ACTIVIA Yogurt con Probiotico Bifidus, 0% Grassi, 0% Zuccheri Aggiunti, Bianco Naturale, 8x125g",
+        "price":"4.99",
+        "brand":"Activia",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8001630011338"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Delta Yogurt Greco Autentico 0% di Grassi Bianco 1 kg",
+        "price":"6.19",
+        "brand":"Delta",
+        "category":"yogurt_magro",
+        "ean":"5201037714020"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Mulino Bianco Plumcake Merenda con Yogurt italiano e Gocce di Cioccolato 10 pezzi 350g",
+        "price":"3.19",
+        "brand":"Mulino Bianco",
+        "category":"merendine",
+        "ean":"8076809532730"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Sterzing Vipiteno bio Yogurt da Latte Fieno Magro bianco 500 g",
+        "price":"1.99",
+        "brand":"Sterzing Vipiteno",
+        "category":"yogurt_magro",
+        "ean":"8007735191166"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Bio Yogurt magro 400 g",
+        "price":"1.49",
+        "brand":"Carrefour Bio",
+        "category":"yogurt_magro",
+        "ean":"8012666053636"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Milk Pro High Protein 20g Kefir Bianco Naturale 300 g",
+        "price":"1.49",
+        "brand":"milk",
+        "category":"yogurt_magro",
+        "ean":"8034066307102"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Classic No Lactose!* Yogurt Magro Bianco 2 x 125 g",
+        "price":"0.79",
+        "brand":"Carrefour",
+        "category":"yogurt_magro",
+        "ean":"8012666058792"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"mila Yogurt Intero Fior di Latte 1000 g",
+        "price":"3.39",
+        "brand":"mila",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8001790003570"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Meran Yogurt extra cremoso Fior di Latte 1 kg",
+        "price":"1.99",
+        "brand":"Meran",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"0000080291107"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"AlpiYò Yogurt di Valtellina Intero Naturale 500 g",
+        "price":"2.59",
+        "brand":"AlpiYò",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8008719001310"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fattoria Scaldasole Bianco Magro yogurt biologico 500 g",
+        "price":"2.99",
+        "brand":"Fattoria Scaldasole",
+        "category":"yogurt_magro",
+        "ean":"8010795001023"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Mulino Bianco Armonia Pandiyò Biscotti Yogurt Bianco Senza Zuccheri Aggiunti Fonte di Calcio 270g",
+        "price":"2.99",
+        "brand":"Mulino Bianco",
+        "category":"biscotti_classici",
+        "ean":"8076809584012"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fattoria Scaldasole Bianco Intero yogurt biologico 2 x 115 g",
+        "price":"1.69",
+        "brand":"Fattoria Scaldasole",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8010795007032"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"DANONE Greco Autentico 2% Grassi, 13g di Proteine per 150g, Senza Zuccheri Aggiunti, Bianco, 480g",
+        "price":"3.39",
+        "brand":"Danone",
+        "category":"yogurt_magro",
+        "ean":"8001630012984"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"DANONE Greco Autentico 0% Grassi, 13g di Proteine per 150g, Senza Zuccheri Aggiunti, Bianco, 480g",
+        "price":"3.39",
+        "brand":"Danone",
+        "category":"yogurt_magro",
+        "ean":"8001630012977"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Mevgal extra Yogurt Greco 0% 500 g",
+        "price":"4.35",
+        "brand":"Mevgal",
+        "category":"yogurt_magro",
+        "ean":"5201083346206"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fattoria Scaldasole Bianco Magro yogurt biologico 2 x 115 g",
+        "price":"1.69",
+        "brand":"Fattoria Scaldasole",
+        "category":"yogurt_magro",
+        "ean":"8010795007049"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Mevgal Yogurt Greco 10% Grassi 150 g",
+        "price":"1.49",
+        "brand":"Mevgal",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"5201083425130"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Koukaki Dairy Farm Yogurt Greco Colato 10% Grassi 375 g",
+        "price":"3.69",
+        "brand":"Koukaki Dairy Farm",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"5200106871183"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"AlpiYò Yogurt di Valtellina Senza Lattosio Intero Naturale 125 g",
+        "price":"1.25",
+        "brand":"AlpiYò",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"8008719003178"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Yogurt Bianco Più Stelle al Cioccolato 150 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042208266"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Bianco Seta con Cuore di Agrumi e Mango 2 x 125 g",
+        "price":"1.69",
+        "brand":"müller",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"4025500260026"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Bianco Seta con Cuore di Lamponi 2 x 125 g",
+        "price":"1.69",
+        "brand":"müller",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"4025500260095"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Milk Kefir Bio Bianco Naturale 480g",
+        "price":"1.75",
+        "brand":"milk",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8034066307089"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Sojasun Bifidus Bianco 250 g",
+        "price":"1.55",
+        "brand":"Sojasun",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"3273227581028"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Yogurt Greco Intero Sfuso",
+        "price":"1.18",
+        "brand":"Banco Formaggi",
+        "category":"banco_dei_formaggi",
+        "ean":"2121859000000"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Sojasun Bifidus Bianco 4 x 100 g",
+        "price":"2.39",
+        "brand":"Sojasun",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"3273227481601"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Carrefour Sensation Frozen yogurt bianco al Naturale 300 g",
+        "price":"2.99",
+        "brand":"Carrefour",
+        "category":"vaschette_gelato_e_barattoli",
+        "ean":"8012666074556"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Fattoria Scaldasole Bianco Senza Lattosio yogurt biologico 400 g",
+        "price":"2.69",
+        "brand":"Fattoria Scaldasole",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8010795000965"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Këfir Bianco 350 g",
+        "price":"1.69",
+        "brand":"müller",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"4025500296889"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Soffio Mousse di Bianco più Mandorle e Gocce di Cioccolato 120 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042333814"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Soffio Mousse di Bianco 2 x 95 g",
+        "price":"1.75",
+        "brand":"müller",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"4025500283599"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"NESTLÉ I Love kefir Bianco Naturale 170g",
+        "price":"0.99",
+        "brand":"NESTLÉ",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"3023290054000"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Soffio Mousse di Bianco al Limone 2 x 95 g",
+        "price":"1.75",
+        "brand":"müller",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"4025500296520"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ACTIMEL, Yogurt da Bere con Vit B6 e D per il Sistema Immunitario, 0% grassi, Bianco Naurale, 6X100G",
+        "price":"3.59",
+        "brand":"Actimel",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8001630003852"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ACTIMEL, Yogurt da Bere con Vit B6 e D per il Sistema Immunitario, Bianco Naturale, 6X100G",
+        "price":"3.59",
+        "brand":"Actimel",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8001630003616"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Mix Yogurt al Pistacchio e Wafer al Cioccolato Bianco 150 g",
+        "price":"1.25",
+        "brand":"müller Mix",
+        "category":"yogurt_mix",
+        "ean":"0000042343660"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ZYMIL Alta Digeribilità Senza Lattosio Yogurt Bianco 2x125g",
+        "price":"1.19",
+        "brand":"ZYMIL",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8002580000823"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ALPRO Alternativa Vegetale allo Yogurt, Bianco, a base di Soia, basso in Grassi, No Lattosio, 400g",
+        "price":"2.45",
+        "brand":"alpro",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"5411188137979"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ALPRO GREEK STYLE, Alternativa Vegetale allo Yogurt, Bianco, Naturalmente Senza Lattosio, 135g",
+        "price":"1.55",
+        "brand":"alpro",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"5411188141341"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"müller Soffio Mousse di Bianco al Gusto Pistacchio 2 x 95 g",
+        "price":"1.69",
+        "brand":"müller",
+        "category":"yogurt_intero_bianco_e_alla_frutta",
+        "ean":"4025500307110"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Oh my Yomo! Yogurt Bianco + Biscottini al Cioccolato 140 g",
+        "price":"1.09",
+        "brand":"Oh my Yomo!",
+        "category":"yogurt_mix",
+        "ean":"0000080994565"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Oh my Yomo! Cheesecake Bianco più Crumble al Cacao 140 g",
+        "price":"1.19",
+        "brand":"Oh my Yomo!",
+        "category":"yogurt_mix",
+        "ean":"0000080967552"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Valsoia Bontà e Salute Bianco Naturale Zero Zuccheri 2 x 125 g",
+        "price":"1.65",
+        "brand":"Valsoia Bontà e Salute",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8006040414366"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ACTIVIA Yogurt con Probiotico Bifidus, 0% Zuccheri Aggiunti, Bianco Naturale 8x125g",
+        "price":"4.99",
+        "brand":"Activia",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8001630011277"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Milk Kefir Colato Greco 0% Grassi Bianco Naturale 500 g",
+        "price":"3.19",
+        "brand":"milk",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"8034066303470"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"Oh my Yomo! Cheesecake Lampone più Crumble e Cioccolato Bianco 140 g",
+        "price":"1.19",
+        "brand":"Oh my Yomo!",
+        "category":"yogurt_mix",
+        "ean":"0000080967545"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"ZYMIL Alta Digeribilità Senza Lattosio Kefir Bianco naturale 250g",
+        "price":"1.29",
+        "brand":"ZYMIL",
+        "category":"yogurt_probiotico_e_da_bere",
+        "ean":"3023290080801"
+    },
+    {
+        "search_query":"yogurt bianco",
+        "name":"cameo le Soffici Yogurt e gocce di cioccolato bianco 600 g",
+        "price":"4.99",
+        "brand":"cameo",
+        "category":"basi_e_sfoglie",
+        "ean":"8003000616303"
+    },
+    {
+        "search_query":"burro",
+        "name":"Optimus Burro 125 g",
+        "price":"1.79",
+        "brand":"Optimus",
+        "category":"burro_e_margarina",
+        "ean":"8001750320037"
+    },
+    {
+        "search_query":"burro",
+        "name":"Optimus Burro 250 g",
+        "price":"3.29",
+        "brand":"Optimus",
+        "category":"burro_e_margarina",
+        "ean":"8001750202012"
+    },
+    {
+        "search_query":"burro",
+        "name":"Terre d'Italia Burro tradizionale del Piemonte 250 g",
+        "price":"3.79",
+        "brand":"Terre d'Italia",
+        "category":"burro_e_margarina",
+        "ean":"8012666503353"
+    },
+    {
+        "search_query":"burro",
+        "name":"Latteria Soresina Burro Soresina 125 g",
+        "price":"1.79",
+        "brand":"Latteria Soresina",
+        "category":"burro_e_margarina",
+        "ean":"8004673220163"
+    },
+    {
+        "search_query":"burro",
+        "name":"Latteria Soresina Burro Soresina 250 g",
+        "price":"2.35",
+        "brand":"Latteria Soresina",
+        "category":"burro_e_margarina",
+        "ean":"8004673220149"
+    },
+    {
+        "search_query":"burro",
+        "name":"Parmareggio Burro 200 g",
+        "price":"3.09",
+        "brand":"Parmareggio",
+        "category":"burro_e_margarina",
+        "ean":"8010721998465"
+    },
+    {
+        "search_query":"burro",
+        "name":"Latteria Soresina Burro Soresina Senza Lattosio 125 g",
+        "price":"2.29",
+        "brand":"Latteria Soresina",
+        "category":"burro_e_margarina",
+        "ean":"8004673220415"
+    },
+    {
+        "search_query":"burro",
+        "name":"Parmareggio Burro 400 g",
+        "price":"5.99",
+        "brand":"Parmareggio",
+        "category":"burro_e_margarina",
+        "ean":"8010721992333"
+    },
+    {
+        "search_query":"burro",
+        "name":"Polenghi Lombardo Burro 125 g",
+        "price":"1.69",
+        "brand":"Polenghi Lombardo",
+        "category":"burro_e_margarina",
+        "ean":"8030705005897"
+    },
+    {
+        "search_query":"burro",
+        "name":"Lurpak Burro Leggermente Salato 200 g",
+        "price":"4.49",
+        "brand":"Lurpak",
+        "category":"burro_e_margarina",
+        "ean":"5740900401785"
+    },
+    {
+        "search_query":"burro",
+        "name":"Latteria Sociale Cooperativa Chiuro Burro Valtellina 250 g",
+        "price":"3.99",
+        "brand":"Latteria Sociale Cooperativa Chiuro",
+        "category":"burro_e_margarina",
+        "ean":"8008719000061"
+    },
+    {
+        "search_query":"burro",
+        "name":"Vallé Naturalmente 250 g",
+        "price":"1.99",
+        "brand":"Vallé",
+        "category":"burro_e_margarina",
+        "ean":"8053017190099"
+    },
+    {
+        "search_query":"burro",
+        "name":"Vallé Ricca di Omega3 (ALA) 250 g",
+        "price":"2.09",
+        "brand":"Vallé",
+        "category":"burro_e_margarina",
+        "ean":"8053017190136"
+    },
+    {
+        "search_query":"burro",
+        "name":"Parmareggio Burro 100 g",
+        "price":"1.89",
+        "brand":"Parmareggio",
+        "category":"burro_e_margarina",
+        "ean":"0000080353003"
+    },
+    {
+        "search_query":"burro",
+        "name":"prealpi Burro Chiarificato 250 g",
+        "price":"4.99",
+        "brand":"prealpi",
+        "category":"burro_e_margarina",
+        "ean":"8000415000918"
+    },
+    {
+        "search_query":"burro",
+        "name":"Lurpak Burro Classico 200 g",
+        "price":"4.49",
+        "brand":"Lurpak",
+        "category":"burro_e_margarina",
+        "ean":"5740900401778"
+    },
+    {
+        "search_query":"burro",
+        "name":"DallaTorre la Montanara Burro di centrifuga da Latte fresco 250 g",
+        "price":"3.59",
+        "brand":"DallaTorre",
+        "category":"burro_e_margarina",
+        "ean":"8001913000172"
+    },
+    {
+        "search_query":"burro",
+        "name":"Carrefour Bio Burro 200 g",
+        "price":"3.79",
+        "brand":"Carrefour Bio",
+        "category":"burro_e_margarina",
+        "ean":"8012666071425"
+    },
+    {
+        "search_query":"burro",
+        "name":"Carrefour Margarina Vegetale 250 g",
+        "price":"0.79",
+        "brand":"Carrefour",
+        "category":"burro_e_margarina",
+        "ean":"8012666071753"
+    },
+    {
+        "search_query":"burro",
+        "name":"Beppino Occelli Burro Italiano 250 g",
+        "price":"6.99",
+        "brand":"Beppino Occelli",
+        "category":"burro_e_margarina",
+        "ean":"8000239000019"
+    },
+    {
+        "search_query":"burro",
+        "name":"Lurpak Spalmabile Leggermente Salato 200 g",
+        "price":"4.49",
+        "brand":"Lurpak",
+        "category":"burro_e_margarina",
+        "ean":"5740900404717"
+    },
+    {
+        "search_query":"burro",
+        "name":"Latteria Soresina Burro Soresina Latte Panna 250 g",
+        "price":"3.19",
+        "brand":"Latteria Soresina",
+        "category":"burro_e_margarina",
+        "ean":"8004673220804"
+    },
+    {
+        "search_query":"burro",
+        "name":"Vallé + Burro 250 g",
+        "price":"2.59",
+        "brand":"Vallé",
+        "category":"burro_e_margarina",
+        "ean":"8053017190082"
+    },
+    {
+        "search_query":"burro",
+        "name":"Latteria Soresina Burro Soresina 250 g",
+        "price":"4.49",
+        "brand":"Latteria Soresina",
+        "category":"burro_e_margarina",
+        "ean":"8004673220101"
+    },
+    {
+        "search_query":"burro",
+        "name":"Latteria Sociale Cooperativa Chiuro Burro Valtellina 125 g",
+        "price":"2.55",
+        "brand":"Latteria Sociale Cooperativa Chiuro",
+        "category":"burro_e_margarina",
+        "ean":"8008719000726"
+    },
+    {
+        "search_query":"burro",
+        "name":"Carrefour Original Burro da Panna da centrifuga 250 g",
+        "price":"3.59",
+        "brand":"Carrefour",
+        "category":"burro_e_margarina",
+        "ean":"8012666071395"
+    },
+    {
+        "search_query":"burro",
+        "name":"Granarolo Burro 200 g",
+        "price":"3.69",
+        "brand":"Granarolo",
+        "category":"burro_e_margarina",
+        "ean":"8002670009286"
+    },
+    {
+        "search_query":"burro",
+        "name":"Biraghi Burro Selezione Osvaldo Biraghi 2 x 100 g",
+        "price":"3.59",
+        "brand":"Biraghi",
+        "category":"burro_e_margarina",
+        "ean":"8002004155221"
+    },
+    {
+        "search_query":"burro",
+        "name":"Latteria Soresina Burro Soresina Latte Panna Leggermente Salato 125 g",
+        "price":"2.39",
+        "brand":"Latteria Soresina",
+        "category":"burro_e_margarina",
+        "ean":"8004673220934"
+    },
+    {
+        "search_query":"burro",
+        "name":"prealpi Nuovo Prealpi il burro a ridotto contenuto di colesterolo 200 g",
+        "price":"3.79",
+        "brand":"prealpi",
+        "category":"burro_e_margarina",
+        "ean":"8000415001465"
+    },
+    {
+        "search_query":"burro",
+        "name":"prealpi Metà Metà Metà burro e metà vegetale 250 g",
+        "price":"2.65",
+        "brand":"prealpi",
+        "category":"burro_e_margarina",
+        "ean":"8000415000741"
+    },
+    {
+        "search_query":"burro",
+        "name":"Carnini il Burro 250 g",
+        "price":"4.59",
+        "brand":"Carnini",
+        "category":"burro_e_margarina",
+        "ean":"8006250000724"
+    },
+    {
+        "search_query":"burro",
+        "name":"Latteria Sociale Cooperativa Chiuro Burro gold Valtellina 200 g",
+        "price":"5.69",
+        "brand":"Latteria Sociale Cooperativa Chiuro",
+        "category":"burro_e_margarina",
+        "ean":"8008719001433"
+    },
+    {
+        "search_query":"burro",
+        "name":"Carnini il Burro 125 g",
+        "price":"3.19",
+        "brand":"Carnini",
+        "category":"burro_e_margarina",
+        "ean":"8006250000717"
+    },
+    {
+        "search_query":"fiocchi di mais",
+        "name":"Carrefour Bio Fiocchi di Mais e grano saraceno 200 g",
+        "price":"1.79",
+        "brand":"Carrefour Bio",
+        "category":"cereali_benessere",
+        "ean":"8012666070336"
+    },
+    {
+        "search_query":"fiocchi di mais",
+        "name":"Carrefour Bio Fiocchi di Mais con Quinoa bianca 200 g",
+        "price":"1.99",
+        "brand":"Carrefour Bio",
+        "category":"cereali_benessere",
+        "ean":"8012666049110"
+    },
+    {
+        "search_query":"fiocchi di mais",
+        "name":"Carrefour Bio Corn Flakes Fiocchi tostati a base di mais 300 g",
+        "price":"1.55",
+        "brand":"Carrefour Bio",
+        "category":"cereali_classici",
+        "ean":"8012666039357"
+    },
+    {
+        "search_query":"fiocchi di mais",
+        "name":"GO FREE Corn Flakes Fiocchi di mais senza glutine 375 g",
+        "price":"2.45",
+        "brand":"GOFREE",
+        "category":"cereali_classici",
+        "ean":"5900020023797"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Uliveto 6 x 1,5 L",
+        "price":"3.78",
+        "brand":"Uliveto",
+        "category":"acqua_frizzante",
+        "ean":"8008490000182"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Carrefour Classic Frizzante Acqua Minerale Naturale Monviso 6 x 1,5 L",
+        "price":"2.16",
+        "brand":"Carrefour",
+        "category":"acqua_frizzante",
+        "ean":"8012666072101"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Carrefour Classic Frizzante Acqua Minerale Naturale Monviso 6 x 0,5 L",
+        "price":"1.74",
+        "brand":"Carrefour",
+        "category":"acqua_frizzante",
+        "ean":"8012666072132"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Carrefour Classic Leggermente Frizzante Acqua Minerale Naturale Monviso 6 x 1,5 L",
+        "price":"2.16",
+        "brand":"Carrefour",
+        "category":"acqua_frizzante",
+        "ean":"8012666072163"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Ferrarelle 6 x 1,5 L",
+        "price":"3.06",
+        "brand":"Ferrarelle",
+        "category":"acqua_frizzante",
+        "ean":"8006290311248"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Valmora Sorgente Alpina Frizzante 6 x 1,5 L",
+        "price":"3.12",
+        "brand":"Valmora",
+        "category":"acqua_frizzante",
+        "ean":"8010333001751"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Acqua Minerale Alpe Guizza Frizzante 6 x 1,5L",
+        "price":"1.32",
+        "brand":"Guizza",
+        "category":"acqua_frizzante",
+        "ean":"8001620004531"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Brio Rossa Più Frizzante Gualdo Tadino 6 x 1,5 litri",
+        "price":"3.78",
+        "brand":"Brio Rossa",
+        "category":"acqua_frizzante",
+        "ean":"8009245770237"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Uliveto 6 x 0,5 L",
+        "price":"2.28",
+        "brand":"Uliveto",
+        "category":"acqua_frizzante",
+        "ean":"8008490991015"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Sant'Anna di Vinadio Frizzante 6 x 1,5 L",
+        "price":"3.66",
+        "brand":"Sant'Anna",
+        "category":"acqua_frizzante",
+        "ean":"8020141630005"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"S.Bernardo Frizzante 6 x 150 cL",
+        "price":"2.79",
+        "brand":"S.Bernardo",
+        "category":"acqua_frizzante",
+        "ean":"8003430362016"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Vera Frizzante 6 x 1,5 l",
+        "price":"1.79",
+        "brand":"Vera",
+        "category":"acqua_frizzante",
+        "ean":"8005200010332"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"San Benedetto Oligominerale Benedicta Frizzante 6 x 0,5 L",
+        "price":"2.28",
+        "brand":"San Benedetto",
+        "category":"acqua_frizzante",
+        "ean":"8001620101018"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"LEVISSIMA, Acqua Frizzante R-PET 25% 6 x 0,5 L",
+        "price":"2.10",
+        "brand":"LEVISSIMA",
+        "category":"acqua_frizzante",
+        "ean":"8001050025632"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Ferrarelle 6 x 0,5 L",
+        "price":"1.84",
+        "brand":"Ferrarelle",
+        "category":"acqua_frizzante",
+        "ean":"8006290312535"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Valmora Sorgente Alpina Frizzante 12 x 0,5 L",
+        "price":"2.15",
+        "brand":"Valmora",
+        "category":"acqua_frizzante",
+        "ean":"8010333001706"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Boario Frizzante 6 x 1,5 L",
+        "price":"2.70",
+        "brand":"Boario",
+        "category":"acqua_frizzante",
+        "ean":"8006290412242"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"San Benedetto Oligominerale Benedicta Frizzante 6 x 1,5 L",
+        "price":"3.06",
+        "brand":"San Benedetto",
+        "category":"acqua_frizzante",
+        "ean":"0000080008408"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Brio Blu Leggermente Frizzante Gualdo Tadino 6 x 1,5 litri",
+        "price":"3.78",
+        "brand":"Brio Blu",
+        "category":"acqua_frizzante",
+        "ean":"8009245003007"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Sant'Anna di Vinadio Frizzante 6 x 0,5 L",
+        "price":"1.98",
+        "brand":"Sant'Anna",
+        "category":"acqua_frizzante",
+        "ean":"8020141710004"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"LEVISSIMA, Acqua Intensamente Frizzante 25% RPET 6 x 1 L",
+        "price":"3.30",
+        "brand":"LEVISSIMA",
+        "category":"acqua_frizzante",
+        "ean":"8001050025755"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Ferrarelle Maxima 6 x 1,5 L",
+        "price":"3.36",
+        "brand":"Ferrarelle",
+        "category":"acqua_frizzante",
+        "ean":"8006290805150"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"S.PELLEGRINO, Acqua Minerale Frizzante, Pet - 6x1L",
+        "price":"5.34",
+        "brand":"S.PELLEGRINO",
+        "category":"acqua_frizzante",
+        "ean":"8002270106668"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Frasassi Acqua Minerale Frizzante 6 x 1,5 L",
+        "price":"2.34",
+        "brand":"Frasassi",
+        "category":"acqua_frizzante",
+        "ean":"8002495512640"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Frasassi Acqua Minerale Frizzante 12 x 0,5 L",
+        "price":"2.36",
+        "brand":"Frasassi",
+        "category":"acqua_frizzante",
+        "ean":"8002495513548"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"S.PELLEGRINO, Acqua Minerale Frizzante, Pet - 6x500ml",
+        "price":"5.04",
+        "brand":"S.PELLEGRINO",
+        "category":"acqua_frizzante",
+        "ean":"8002270436796"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"S.Bernardo Lievemente Frizzante 6 x 150 cL",
+        "price":"2.79",
+        "brand":"S.Bernardo",
+        "category":"acqua_frizzante",
+        "ean":"8003430262019"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"LEVISSIMA, Acqua Frizzante R-PET 25% 6 x 1,5 L",
+        "price":"3.84",
+        "brand":"LEVISSIMA",
+        "category":"acqua_frizzante",
+        "ean":"8001050012502"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Sant'Anna di Vinadio Lievemente Frizzante 6 x 1,5 L",
+        "price":"3.66",
+        "brand":"Sant'Anna",
+        "category":"acqua_frizzante",
+        "ean":"8020141620006"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"San Benedetto Oligominerale Benedicta Leggermente Frizzante 6 x 1,5 L",
+        "price":"3.06",
+        "brand":"San Benedetto",
+        "category":"acqua_frizzante",
+        "ean":"0000080008163"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Brio Rossa Più Frizzante Gualdo Tadino 6 x 1 litro",
+        "price":"3.48",
+        "brand":"Brio Rossa",
+        "category":"acqua_frizzante",
+        "ean":"8009245770770"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"San Benedetto Extreme Acqua Altamente Frizzante 6 x 1 L",
+        "price":"3.54",
+        "brand":"San Benedetto",
+        "category":"acqua_frizzante",
+        "ean":"8001620025161"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"S. Antonio Frizzante 6 x 0,5 L",
+        "price":"1.61",
+        "brand":"S. Antonio",
+        "category":"acqua_frizzante",
+        "ean":"8009980888716"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Maniva Frizzante 6 x 1,5 Litri",
+        "price":"2.52",
+        "brand":"Maniva",
+        "category":"acqua_frizzante",
+        "ean":"8022966530102"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"PERRIER, Acqua Minerale Naturale Frizzante, rinforzata con il gas della sorgente 1l x 6",
+        "price":"9.00",
+        "brand":"PERRIER",
+        "category":"acqua_frizzante",
+        "ean":"3179732348944"
+    },
+    {
+        "search_query":"acqua minerale",
+        "name":"Chiarella Acqua Minerale Frizzante Oligominerale 12 x 0,5 L",
+        "price":"2.64",
+        "brand":"Chiarella",
+        "category":"acqua_frizzante",
+        "ean":"0000080139607"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Petto di Pollo Italiano Affettato da Banco",
+        "price":"2.05",
+        "brand":"Banco Salumeria",
+        "category":"banco_dei_salumi",
+        "ean":"2086615000000"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Simpl Petto di Pollo al Forno 150 g",
+        "price":"2.09",
+        "brand":"Simpl",
+        "category":"pollo_e_tacchino",
+        "ean":"8012666063161"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Petto di pollo fettine sottili",
+        "price":"5.34",
+        "brand":"Carrefour",
+        "category":"carne_di_pollo",
+        "ean":"2113349000000"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Petto di Pollo 1000 g",
+        "price":"10.99",
+        "brand":"Aia",
+        "category":"carne_di_pollo",
+        "ean":"8008110556280"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Aia aeQuilibrium Petto di Pollo 130 g",
+        "price":"1.69",
+        "brand":"Aia",
+        "category":"pollo_e_tacchino",
+        "ean":"8008110034078"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Carrefour Bio Petto Pollo a Fette Bio",
+        "price":"7.22",
+        "brand":"Carrefour Bio",
+        "category":"carne_di_pollo",
+        "ean":"2107442000000"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Carrefour Filiera Qualità Petto di Pollo a Fette",
+        "price":"5.35",
+        "brand":"Carrefour",
+        "category":"carne_di_pollo",
+        "ean":"2113342000000"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Petto di Pollo al Curry",
+        "price":"4.49",
+        "brand":"Rico Carni",
+        "category":"carne_di_pollo",
+        "ean":"8024239000299"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Aia Chicken Salad Tagliata di Petti di Pollo 0,300 kg",
+        "price":"4.89",
+        "brand":"Aia",
+        "category":"carne_di_pollo",
+        "ean":"8008110035686"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Tagliata di Petto di Pollo Cotta Simpl",
+        "price":"5.59",
+        "brand":"Simpl",
+        "category":"carne_di_pollo",
+        "ean":"8001625045966"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Citterio Sofficette Petto di Pollo al Forno 60 g",
+        "price":"1.69",
+        "brand":"Citterio",
+        "category":"pollo_e_tacchino",
+        "ean":"0000080457510"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Gardani Petto di Pollo al Forno 100 g",
+        "price":"3.69",
+        "brand":"Gardani",
+        "category":"banco_dei_salumi",
+        "ean":"8031905014535"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Carrefour Filiera Qualità Petto di Pollo",
+        "price":"6.20",
+        "brand":"Carrefour",
+        "category":"carne_di_pollo",
+        "ean":"2113351000000"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Rovagnati Snello Petto di Pollo al forno 100 g",
+        "price":"3.49",
+        "brand":"Rovagnati",
+        "category":"pollo_e_tacchino",
+        "ean":"8007141516829"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Borgo Rovagnati Petto di Pollo al Forno 100 g",
+        "price":"4.49",
+        "brand":"Borgo Rovagnati",
+        "category":"banco_dei_salumi",
+        "ean":"8007141514627"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Amadori Qualità 10+ Petto di Pollo a Fette Maxi",
+        "price":"15.99",
+        "brand":"Amadori",
+        "category":"carne_di_pollo",
+        "ean":"2702462000000"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Aia aeQuilibrium & me Petto di Pollo 60 g",
+        "price":"1.49",
+        "brand":"Aia",
+        "category":"pollo_e_tacchino",
+        "ean":"8008110039103"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Carrefour Bio Fettine Sottili di Petto Pollo Bio",
+        "price":"7.57",
+        "brand":"Carrefour Bio",
+        "category":"carne_di_pollo",
+        "ean":"2107167000000"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Petto di Pollo a Fette Halal",
+        "price":"8.99",
+        "brand":"Banco Macelleria",
+        "category":"carne_di_pollo",
+        "ean":"2106589000000"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Martini QuandoVuoi Mini Spiedini  petto di pollo 0,300 Kg",
+        "price":"6.49",
+        "brand":"Martini",
+        "category":"carne_di_pollo",
+        "ean":"8007281611958"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Fileni Bio Cotolette di Petto di Pollo Bio 0,220 kg",
+        "price":"5.13",
+        "brand":"Fileni",
+        "category":"carne_di_pollo",
+        "ean":"8016026030886"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Sottilette Fila e Fondi con mozzarella - formaggio fuso a fette - 200 g",
+        "price":"2.25",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"8001590927373"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Sottilette formaggio fuso a fette Senza Lattosio - 200 g",
+        "price":"2.09",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"7622201679811"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Sottilette Le Specialità Cremose - formaggio fuso a fette ripieno di Philadelphia - 185 g",
+        "price":"2.39",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"7622210682680"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Sottilette Classiche formaggio fuso a fette - 200g",
+        "price":"2.49",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"8001590927335"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Sottilette Burger con Cheddar - formaggio fuso a fette - 370 g",
+        "price":"3.85",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"7622201685737"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Sottilette Classiche formaggio fuso a fette - 400g",
+        "price":"4.49",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"8001590927366"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Sottilette Classiche formaggio fuso a fette - 571 g",
+        "price":"5.69",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"7622210138019"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Sottilette Burger con Cheddar - formaggio fuso a fette - 185 g",
+        "price":"2.09",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"7622210390592"
+    },
+    {
+        "search_query":"petto di pollo",
+        "name":"Sottilette Fumé con Scamorza -  formaggio fuso a fette con Scamorza - 158 g",
+        "price":"2.25",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"7622201108007"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Pomodoro Datterino 250 gr.",
+        "price":"2.38",
+        "brand":"Carrefour",
+        "category":"pomodori_e_pomodorini",
+        "ean":"8001625507396"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Pomodoro tondo grappolo I categoria Italia calibro 47-77",
+        "price":"2.99",
+        "brand":"Carrefour",
+        "category":"pomodori_e_pomodorini",
+        "ean":"2033750000000"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"POMODORO CILIEGINO 500 gr",
+        "price":"3.88",
+        "brand":"ORTOMI'",
+        "category":"pomodori_e_pomodorini",
+        "ean":"8050762581592"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Pomodoro Piccadilly 500 gr.",
+        "price":"3.88",
+        "brand":"Carrefour",
+        "category":"pomodori_e_pomodorini",
+        "ean":"8057733850084"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Pomodoro datterino senza nickel 250 g",
+        "price":"2.98",
+        "brand":"Sfera Agricola",
+        "category":"pomodori_e_pomodorini",
+        "ean":"8056446330005"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Pomodoro tondo insalataro sfuso origine Italia",
+        "price":"3.58",
+        "brand":"Pomodori",
+        "category":"pomodori_e_pomodorini",
+        "ean":"2001801000000"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Pomodori mix colorati",
+        "price":"2.98",
+        "brand":"Colture",
+        "category":"pomodori_e_pomodorini",
+        "ean":"8028002049287"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Pomodoro Costoluto Senza Nichel",
+        "price":"3.98",
+        "brand":"Verdura",
+        "category":"pomodori_e_pomodorini",
+        "ean":"8056446330968"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Pomodoro Superiore senza nickel",
+        "price":"3.98",
+        "brand":"Verdura",
+        "category":"pomodori_e_pomodorini",
+        "ean":"8056446330241"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Pomodoro Kamarino 250 g",
+        "price":"2.68",
+        "brand":"Verdura",
+        "category":"pomodori_e_pomodorini",
+        "ean":"8058368090029"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Pomodoro Datterino Rosso",
+        "price":"2.98",
+        "brand":"Pomodori",
+        "category":"pomodori_e_pomodorini",
+        "ean":"8028002037932"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Pomodori Ciliegino Senza Nichel 300 g",
+        "price":"3.38",
+        "brand":"Pomodori",
+        "category":"pomodori_e_pomodorini",
+        "ean":"8028002038359"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Pomodoro Marzanino 300 g",
+        "price":"2.58",
+        "brand":"Pomodori",
+        "category":"pomodori_e_pomodorini",
+        "ean":"8058368090173"
+    },
+    {
+        "search_query":"pomodori",
+        "name":"Philadelphia Original Formaggio Fresco cremoso Vaschetta 250g",
+        "price":"2.29",
+        "brand":" Philadelphia",
+        "category":"ricotta,_stracchino_e_formaggi_spalmabili",
+        "ean":"8001590640258"
+    },
+    {
+        "search_query":"patate",
+        "name":"Terre d'Italia Patata di Bologna D.O.P. 1,5 kg",
+        "price":"2.55",
+        "brand":"Terre d'Italia",
+        "category":"patate",
+        "ean":"8012666506583"
+    },
+    {
+        "search_query":"patate",
+        "name":"Pizzoli iodì 1,5 kg",
+        "price":"3.38",
+        "brand":"Pizzoli",
+        "category":"patate",
+        "ean":"8002411501390"
+    },
+    {
+        "search_query":"patate",
+        "name":"Selenella 1,5 kg",
+        "price":"3.78",
+        "brand":"Selenella",
+        "category":"patate",
+        "ean":"8030534100152"
+    },
+    {
+        "search_query":"patate",
+        "name":"Patate Rosse 1,5kg",
+        "price":"2.88",
+        "brand":"Patate",
+        "category":"patate",
+        "ean":"8013142000304"
+    },
+    {
+        "search_query":"patate",
+        "name":"Terre d'Italia Patata della Sila IGP 1,5 kg",
+        "price":"3.48",
+        "brand":"Terre d'Italia",
+        "category":"patate",
+        "ean":"8012666038848"
+    },
+    {
+        "search_query":"patate",
+        "name":"Patate Mini Bins 4 kg",
+        "price":"3.80",
+        "brand":"Patate",
+        "category":"patate",
+        "ean":"8020896410013"
+    },
+    {
+        "search_query":"patate",
+        "name":"Patate 4 kg",
+        "price":"3.80",
+        "brand":"Patate",
+        "category":"patate",
+        "ean":"8033706320402"
+    },
+    {
+        "search_query":"patate",
+        "name":"Patate Residuo Zero 1 kg",
+        "price":"2.69",
+        "brand":"Patate",
+        "category":"patate",
+        "ean":"8024409004119"
+    },
+    {
+        "search_query":"patate",
+        "name":"Pizzoli Bianca 1,5 kg",
+        "price":"2.98",
+        "brand":"Pizzoli",
+        "category":"patate",
+        "ean":"8002411504018"
+    },
+    {
+        "search_query":"patate",
+        "name":"Patate Minibins 2 kg",
+        "price":"2.98",
+        "brand":"Patate",
+        "category":"patate",
+        "ean":"8007886011887"
+    },
+    {
+        "search_query":"patate",
+        "name":"PATATE  DA BOLLIRE KG 1,5",
+        "price":"2.98",
+        "brand":"Carrefour",
+        "category":"patate",
+        "ean":"8024409000968"
+    },
+    {
+        "search_query":"patate",
+        "name":"Patate dolci 800 g",
+        "price":"2.18",
+        "brand":"Patate",
+        "category":"patate",
+        "ean":"8024409002603"
+    },
+    {
+        "search_query":"patate",
+        "name":"Patate viola 500 g",
+        "price":"1.85",
+        "brand":"Antonio Ruggiero",
+        "category":"patate",
+        "ean":"8024409002153"
+    },
+    {
+        "search_query":"patate",
+        "name":"Pizzoli PataSnella Barchette 600 g",
+        "price":"1.79",
+        "brand":"Pizzoli",
+        "category":"patate",
+        "ean":"8002411102597"
+    },
+    {
+        "search_query":"patate",
+        "name":"Terre d'Italia Patate a spicchi Grigliate Surgelato 450 g",
+        "price":"1.85",
+        "brand":"Terre d'Italia",
+        "category":"patate",
+        "ean":"8012666505746"
+    },
+    {
+        "search_query":"patate",
+        "name":"Pizzoli PataSnella Patatine 1 kg",
+        "price":"3.19",
+        "brand":"Pizzoli",
+        "category":"patate",
+        "ean":"8002411102269"
+    },
+    {
+        "search_query":"patate",
+        "name":"McCain le Patatine Originali 1.04 kg",
+        "price":"3.49",
+        "brand":"McCain",
+        "category":"patate",
+        "ean":"8710438115741"
+    },
+    {
+        "search_query":"patate",
+        "name":"Carrefour Patate fritte Classiche Surgelato 1 kg",
+        "price":"2.39",
+        "brand":"Carrefour",
+        "category":"patate",
+        "ean":"3560070687114"
+    },
+    {
+        "search_query":"patate",
+        "name":"McCain Air Fryer Chips 600 g",
+        "price":"2.79",
+        "brand":"McCain",
+        "category":"patate",
+        "ean":"8710438126822"
+    },
+    {
+        "search_query":"patate",
+        "name":"Carrefour Patate fritte Classiche Surgelate 450 g",
+        "price":"1.19",
+        "brand":"Carrefour",
+        "category":"patate",
+        "ean":"3560070374304"
+    },
+    {
+        "search_query":"patate",
+        "name":"McCain Kid Smile 650 g",
+        "price":"3.59",
+        "brand":"McCain",
+        "category":"patate",
+        "ean":"8710438118964"
+    },
+    {
+        "search_query":"patate",
+        "name":"McCain Forno Country 650 g",
+        "price":"3.19",
+        "brand":"McCain",
+        "category":"patate",
+        "ean":"8710438118889"
+    },
+    {
+        "search_query":"patate",
+        "name":"Pizzoli We Love Croccanti 750 g",
+        "price":"2.79",
+        "brand":"Pizzoli",
+        "category":"patate",
+        "ean":"8002411100142"
+    },
+    {
+        "search_query":"patate",
+        "name":"Borsa Shopper Surgelati Termica",
+        "price":"1.25",
+        "brand":"Carrefour",
+        "category":"gelati_con_stecco",
+        "ean":"4009044271342"
+    },
+    {
+        "search_query":"patate",
+        "name":"Carrefour Classic patate fritte Steakhouse",
+        "price":"2.30",
+        "brand":"Carrefour",
+        "category":"patate",
+        "ean":"3560071270438"
+    },
+    {
+        "search_query":"patate",
+        "name":"Rio mare Filetti di Tonno all'Olio Extra Vergine di Oliva 180 g",
+        "price":"5.27",
+        "brand":"Rio mare",
+        "category":"tonno_sott'olio",
+        "ean":"8004030655072"
+    },
+    {
+        "search_query":"patate",
+        "name":"Rio mare Filetto di Salmone al Naturale al Vapore 125 g",
+        "price":"5.49",
+        "brand":"Rio mare",
+        "category":"filetti_di_salmone",
+        "ean":"8004030525061"
+    },
+    {
+        "search_query":"patate",
+        "name":"Rio mare Insalatissime Insalata di Tonno cous cous con ceci, piselli e pomodorini 200 g",
+        "price":"3.90",
+        "brand":"Rio mare",
+        "category":"altro_pesce_in_scatola",
+        "ean":"8004030400030"
+    },
+    {
+        "search_query":"patate",
+        "name":"Rio mare Paté Tonno 100 g",
+        "price":"2.42",
+        "brand":"Rio mare",
+        "category":"specialità_di_pesce",
+        "ean":"8004030069008"
+    },
+    {
+        "search_query":"patate",
+        "name":"Rio mare Filetto di Salmone all'Olio Extra Vergine di Oliva al Vapore 125 g",
+        "price":"5.49",
+        "brand":"Rio mare",
+        "category":"filetti_di_salmone",
+        "ean":"8004030525047"
+    },
+    {
+        "search_query":"patate",
+        "name":"Rio mare Insalatissime Insalata di Tonno Piccantina con riso, fagioli e olio piccante 200 g",
+        "price":"3.90",
+        "brand":"Rio mare",
+        "category":"altro_pesce_in_scatola",
+        "ean":"8004030400078"
+    },
+    {
+        "search_query":"patate",
+        "name":"Rio mare Paté Tonno e Carote 100 g",
+        "price":"2.72",
+        "brand":"Rio mare",
+        "category":"specialità_di_pesce",
+        "ean":"8004030538061"
+    },
+    {
+        "search_query":"patate",
+        "name":"Rio mare Trancetti di Tonno Sottovuoto con un filo di Olio di Oliva 70 g",
+        "price":"2.49",
+        "brand":"Rio mare",
+        "category":"tonno_sott'olio",
+        "ean":"8004030470149"
+    },
+    {
+        "search_query":"patate",
+        "name":"Rio mare Filetti di Tonno Lavorati a Mano all'Olio di Oliva 250 g",
+        "price":"7.89",
+        "brand":"Rio mare",
+        "category":"tonno_sott'olio",
+        "ean":"8004030656000"
+    },
+    {
+        "search_query":"patate",
+        "name":"Rio mare Filetti di Tonno al Naturale 180 g",
+        "price":"5.27",
+        "brand":"Rio mare",
+        "category":"tonno_al_naturale",
+        "ean":"8004030654099"
+    },
+    {
+        "search_query":"patate",
+        "name":"McCain Golden Long 750 g",
+        "price":"2.95",
+        "brand":"McCain",
+        "category":"patate",
+        "ean":"3256830006829"
+    },
+    {
+        "search_query":"patate",
+        "name":"Carrefour Patatine fritte a Fiammifero Surgelate 600 g",
+        "price":"2.59",
+        "brand":"Carrefour",
+        "category":"patate",
+        "ean":"3560070143085"
+    },
+    {
+        "search_query":"patate",
+        "name":"Pizzoli We Love Extrafini 750 g",
+        "price":"2.79",
+        "brand":"Pizzoli",
+        "category":"patate",
+        "ean":"8002411102245"
+    },
+    {
+        "search_query":"patate",
+        "name":"Orogel La Cucina Italiana le Campagnole Surgelati 600 g",
+        "price":"3.49",
+        "brand":"Orogel",
+        "category":"patate",
+        "ean":"8003495534540"
+    },
+    {
+        "search_query":"patate",
+        "name":"Pizzoli PataSnella Ultra Veloci 500 g",
+        "price":"2.99",
+        "brand":"Pizzoli",
+        "category":"patate",
+        "ean":"8002411100302"
+    },
+    {
+        "search_query":"patate",
+        "name":"Lamb Weston Twister Fries 600 g",
+        "price":"3.29",
+        "brand":"Lamb Weston",
+        "category":"patate",
+        "ean":"8711571093200"
+    },
+    {
+        "search_query":"patate",
+        "name":"Lamb Weston Grill Fries Salt & Pepper 500 g",
+        "price":"3.25",
+        "brand":"Lamb Weston",
+        "category":"patate",
+        "ean":"8711571093934"
+    },
+    {
+        "search_query":"patate",
+        "name":"Pizzoli Professional Fiammifero Surgelate 2 kg",
+        "price":"4.19",
+        "brand":"Pizzoli",
+        "category":"patate",
+        "ean":"8002411102153"
+    },
+    {
+        "search_query":"patate",
+        "name":"Pizzoli Professional Patatine taglio classico Surgelate 2,5 kg",
+        "price":"5.89",
+        "brand":"Pizzoli",
+        "category":"patate",
+        "ean":"8002411101217"
+    },
+    {
+        "search_query":"patate",
+        "name":"McCain Rustic Potatoes 750 g",
+        "price":"3.59",
+        "brand":"McCain",
+        "category":"patate",
+        "ean":"8710438111699"
+    },
+    {
+        "search_query":"patate",
+        "name":"Lamb Weston Potato Dippers 650 g",
+        "price":"3.25",
+        "brand":"Lamb Weston",
+        "category":"patate",
+        "ean":"8711571093316"
+    },
+    {
+        "search_query":"patate",
+        "name":"Lamb Weston Twister Fries Seasoned 600 g",
+        "price":"3.69",
+        "brand":"Lamb Weston",
+        "category":"patate",
+        "ean":"8711571093231"
+    },
+    {
+        "search_query":"patate",
+        "name":"Lamb Weston Original Fries 750 g",
+        "price":"2.59",
+        "brand":"Lamb Weston",
+        "category":"patate",
+        "ean":"8711571093385"
+    },
+    {
+        "search_query":"patate",
+        "name":"Pizzoli Professional Extra Patatine Surgelate 2,5 kg",
+        "price":"6.39",
+        "brand":"Pizzoli",
+        "category":"patate",
+        "ean":"8002411101224"
+    },
+    {
+        "search_query":"mele",
+        "name":"Mele Minneiska\/Sweetango",
+        "price":"1.98",
+        "brand":"Melinda",
+        "category":"mele",
+        "ean":"8004381800138"
+    },
+    {
+        "search_query":"mele",
+        "name":"Mele Giga 900 g",
+        "price":"2.58",
+        "brand":"VOG",
+        "category":"mele",
+        "ean":"8008757474435"
+    },
+    {
+        "search_query":"mele",
+        "name":"Mele Kanzi 750 g",
+        "price":"2.38",
+        "brand":"Vog",
+        "category":"mele",
+        "ean":"8008757205626"
+    },
+    {
+        "search_query":"mele",
+        "name":"Mele Red Delicious FQC 1 kg Italia I categoria calibro 80-85\/85-90",
+        "price":"2.38",
+        "brand":"Filiera Qualità Carrefour",
+        "category":"mele",
+        "ean":"2014781000000"
+    },
+    {
+        "search_query":"mele",
+        "name":"Mele golden FQC 1 kg Italia I categoria calibro 80-90",
+        "price":"2.58",
+        "brand":"Filiera Qualità Carrefour",
+        "category":"mele",
+        "ean":"2130181000000"
+    },
+    {
+        "search_query":"mele",
+        "name":"Carrefour il Mercato Mele Golden Delicious 2 kg",
+        "price":"2.48",
+        "brand":"Carrefour",
+        "category":"mele",
+        "ean":"8012666054183"
+    },
+    {
+        "search_query":"mele",
+        "name":"Mele Fuji 1 kg Italia I categoria calibro 80-85\/85-90",
+        "price":"2.58",
+        "brand":"Frutta",
+        "category":"mele",
+        "ean":"2429140000000"
+    },
+    {
+        "search_query":"mele",
+        "name":"Melinda Golden D.O.P. Mela Val di Non 0,900 kg",
+        "price":"2.98",
+        "brand":"Melinda",
+        "category":"mele",
+        "ean":"8004381107008"
+    },
+    {
+        "search_query":"mele",
+        "name":"Carrefour il Mercato Mele Red Delicious 2 kg",
+        "price":"2.88",
+        "brand":"Carrefour",
+        "category":"mele",
+        "ean":"8012666054206"
+    },
+    {
+        "search_query":"mele",
+        "name":"Mele Cosmic 900 g",
+        "price":"2.98",
+        "brand":"Cosmic",
+        "category":"mele",
+        "ean":"8025920038614"
+    },
+    {
+        "search_query":"mele",
+        "name":"Mele Giga Sfuse I Categoria Calibro 80\/85",
+        "price":"2.38",
+        "brand":"Frutta",
+        "category":"mele",
+        "ean":"2118196000000"
+    },
+    {
+        "search_query":"mele",
+        "name":"Mele Ambrosia 750 g",
+        "price":"2.48",
+        "brand":"Frutta",
+        "category":"mele",
+        "ean":"8025920035149"
+    },
+    {
+        "search_query":"mele",
+        "name":"Filiera Qualità Carrefour Mele renette sfuse categoria I origine Italia",
+        "price":"2.98",
+        "brand":"Filiera Qualità Carrefour",
+        "category":"mele",
+        "ean":"2115993000000"
+    },
+    {
+        "search_query":"mele",
+        "name":"Terre d'Italia Melannurca Campana I.G.P.",
+        "price":"2.53",
+        "brand":"Terre d'Italia",
+        "category":"mele",
+        "ean":"2220378000000"
+    },
+    {
+        "search_query":"mele",
+        "name":"Mele Smith 900 g",
+        "price":"1.98",
+        "brand":"Frutta",
+        "category":"mele",
+        "ean":"8008757406436"
+    },
+    {
+        "search_query":"mele",
+        "name":"Mele Cripps Pink 800 g",
+        "price":"3.38",
+        "brand":"Mele",
+        "category":"mele",
+        "ean":"8023666503014"
+    },
+    {
+        "search_query":"banane",
+        "name":"FITNESS Protein Cacao Barrette di Cereali al Cacao 4 pezzi da 20g",
+        "price":"2.59",
+        "brand":"FITNESS",
+        "category":"barrette_ai_cereali_e_snack_proteici",
+        "ean":"5900020043832"
+    },
+    {
+        "search_query":"banane",
+        "name":"FITNESS Granola Cioccolato con Avena e Cereali Integrali 300g",
+        "price":"1.99",
+        "brand":"FITNESS",
+        "category":"cereali_classici",
+        "ean":"7613035619425"
+    },
+    {
+        "search_query":"banane",
+        "name":"FITNESS Chocolate Barrette Cereali Integrali con Cioccolato Fondente 6 pezzi da 23,5g",
+        "price":"1.99",
+        "brand":"FITNESS",
+        "category":"barrette_ai_cereali_e_snack_proteici",
+        "ean":"3387390320008"
+    },
+    {
+        "search_query":"banane",
+        "name":"NESQUIK Maxi Choco Barrette Cereali Integrali con Cioccolato al Latte 6 pezzi da 25g",
+        "price":"2.05",
+        "brand":"NESQUIK",
+        "category":"barrette_ai_cereali_e_snack_proteici",
+        "ean":"5900020017437"
+    },
+    {
+        "search_query":"banane",
+        "name":"NESQUIK Palline con Cereali Integrali al Cacao 375g",
+        "price":"3.35",
+        "brand":"NESQUIK",
+        "category":"cereali_classici",
+        "ean":"8410100084954"
+    },
+    {
+        "search_query":"banane",
+        "name":"Banane",
+        "price":"1.20",
+        "brand":"Frutta",
+        "category":"banane_e_frutta_esotica",
+        "ean":"8445509171943"
+    },
+    {
+        "search_query":"banane",
+        "name":"Banane Chiquita Sfuse",
+        "price":"1.68",
+        "brand":"Chiquita",
+        "category":"banane_e_frutta_esotica",
+        "ean":"2131100000000"
+    },
+    {
+        "search_query":"banane",
+        "name":"Banane Chiquita Vassoio",
+        "price":"2.38",
+        "brand":"Frutta",
+        "category":"banane_e_frutta_esotica",
+        "ean":"2620404000000"
+    },
+    {
+        "search_query":"banane",
+        "name":"Banane Bio Vassoio",
+        "price":"3.15",
+        "brand":"Frutta",
+        "category":"frutta_e_verdura_bio",
+        "ean":"2856852000000"
+    },
+    {
+        "search_query":"uova",
+        "name":"6 Uova Sfuse Taglia L Bio",
+        "price":"3.60",
+        "brand":"Carrefour Bio",
+        "category":"uova",
+        "ean":"8012666042173"
+    },
+    {
+        "search_query":"uova",
+        "name":"4 Uova Sfuse Taglia L Bio",
+        "price":"2.80",
+        "brand":"Carrefour Bio",
+        "category":"uova",
+        "ean":"8012666042180"
+    },
+    {
+        "search_query":"uova",
+        "name":"Carrefour Classic Uova Fresche da Galline Allevate a Terra Categoria A Grandi x6",
+        "price":"1.89",
+        "brand":"Carrefour",
+        "category":"uova",
+        "ean":"8012666035809"
+    },
+    {
+        "search_query":"uova",
+        "name":"Carrefour il Mercato 6 Uova Fresche da Allevamento all'Aperto 330 g",
+        "price":"2.29",
+        "brand":"Carrefour",
+        "category":"uova",
+        "ean":"8012666056712"
+    },
+    {
+        "search_query":"uova",
+        "name":"Carrefour Classic Uova Fresche da Galline Allevate a Terra Categoria A Medie x6",
+        "price":"1.69",
+        "brand":"Carrefour",
+        "category":"uova",
+        "ean":"8012666027002"
+    },
+    {
+        "search_query":"uova",
+        "name":"le Naturelle 6 Uova Fresche da Allevamento a Terra da Galline Allevate Senza Uso Antibiotici* 330g",
+        "price":"2.99",
+        "brand":"le Naturelle",
+        "category":"uova",
+        "ean":"8002790086051"
+    },
+    {
+        "search_query":"uova",
+        "name":"Carrefour Bio 6 Uova Fresche di vario calibro Biologiche Categoria A 330 g",
+        "price":"2.85",
+        "brand":"Carrefour Bio",
+        "category":"uova",
+        "ean":"8012666054640"
+    },
+    {
+        "search_query":"uova",
+        "name":"Ruspantovo 10 uova fresche Medie da galline allevate a Terra",
+        "price":"2.89",
+        "brand":"Ruspantovo",
+        "category":"uova",
+        "ean":"8000745006994"
+    },
+    {
+        "search_query":"uova",
+        "name":"le Naturelle 6 Uova Fresche da Allevamento a Terra Medie",
+        "price":"1.99",
+        "brand":"le Naturelle",
+        "category":"uova",
+        "ean":"8002790736468"
+    },
+    {
+        "search_query":"uova",
+        "name":"Carrefour Bio 10 Uova Fresche di vario calibro Biologiche Categoria A 550 g",
+        "price":"4.25",
+        "brand":"Carrefour Bio",
+        "category":"uova",
+        "ean":"8012666071357"
+    },
+    {
+        "search_query":"uova",
+        "name":"Carrefour Bio 4 Uova Fresche di vario calibro Biologiche Categoria A 220 g",
+        "price":"2.09",
+        "brand":"Carrefour Bio",
+        "category":"uova",
+        "ean":"8001350020375"
+    },
+    {
+        "search_query":"uova",
+        "name":"Ruspantovo 10 uova fresche Grandi da galline allevate a Terra",
+        "price":"3.09",
+        "brand":"Ruspantovo",
+        "category":"uova",
+        "ean":"8000745006796"
+    },
+    {
+        "search_query":"uova",
+        "name":"Aia 6 Uova Fresche da allevamento a Terra 330 g",
+        "price":"1.95",
+        "brand":"Aia",
+        "category":"uova",
+        "ean":"8008110007928"
+    },
+    {
+        "search_query":"uova",
+        "name":"le Naturelle 15 Uova Fresche da Allevamento a Terra Medie",
+        "price":"4.09",
+        "brand":"le Naturelle",
+        "category":"uova",
+        "ean":"8002790048684"
+    },
+    {
+        "search_query":"uova",
+        "name":"le Naturelle Albume d'Uovo Pastorizzato 1000 g",
+        "price":"2.69",
+        "brand":"le Naturelle",
+        "category":"uova",
+        "ean":"8002790015051"
+    },
+    {
+        "search_query":"uova",
+        "name":"Carrefour Classic Albume d'Uovo 500 g",
+        "price":"1.79",
+        "brand":"Carrefour",
+        "category":"uova",
+        "ean":"8012666057832"
+    },
+    {
+        "search_query":"uova",
+        "name":"le Naturelle Sfoglia Gialla 10 Uova Fresche da Allevamento a Terra Medie",
+        "price":"2.79",
+        "brand":"le Naturelle",
+        "category":"uova",
+        "ean":"8002790068453"
+    },
+    {
+        "search_query":"uova",
+        "name":"Ruspantovo 6 uova fresche Medie da galline allevate a Terra",
+        "price":"1.99",
+        "brand":"Ruspantovo",
+        "category":"uova",
+        "ean":"8000745006895"
+    },
+    {
+        "search_query":"uova",
+        "name":"Aia aeQuilibrium Albume d'Uovo Pastorizzato 450 g",
+        "price":"2.29",
+        "brand":"Aia",
+        "category":"uova",
+        "ean":"8008110041847"
+    },
+    {
+        "search_query":"uova",
+        "name":"Coccodì Family 15 Uova Allevate a Terra ",
+        "price":"3.99",
+        "brand":"Coccodì",
+        "category":"uova",
+        "ean":"8000745330037"
+    },
+    {
+        "search_query":"uova",
+        "name":"le Naturelle 10 Uova Fresche da Allevamento a Terra Medie",
+        "price":"3.99",
+        "brand":"le Naturelle",
+        "category":"uova",
+        "ean":"8002790048240"
+    },
+    {
+        "search_query":"uova",
+        "name":"le Naturelle Bio 4 Uova Fresche Biologiche da Galline Allevate Senza l'Uso di Antibiotici* 220 g",
+        "price":"2.69",
+        "brand":"le Naturelle",
+        "category":"uova",
+        "ean":"8002790008428"
+    },
+    {
+        "search_query":"uova",
+        "name":"Aia 10 Uova Fresche da allevamento a Terra 530 g",
+        "price":"4.29",
+        "brand":"Aia",
+        "category":"uova",
+        "ean":"8008110032180"
+    },
+    {
+        "search_query":"uova",
+        "name":"Aia Pastagialla 6 Uova Fresche Medie da allevamento a Terra ",
+        "price":"2.49",
+        "brand":"Aia",
+        "category":"uova",
+        "ean":"8008110042035"
+    },
+    {
+        "search_query":"uova",
+        "name":"le Naturelle Uova Guscio Bianco 6 Uova Fresche da Allevamento a Terra 300 g",
+        "price":"1.99",
+        "brand":"le Naturelle",
+        "category":"uova",
+        "ean":"8002790083692"
+    },
+    {
+        "search_query":"uova",
+        "name":"Sottilette Classiche formaggio fuso a fette - 571 g",
+        "price":"5.69",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"7622210138019"
+    },
+    {
+        "search_query":"uova",
+        "name":"Sottilette Fila e Fondi con mozzarella - formaggio fuso a fette - 200 g",
+        "price":"2.25",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"8001590927373"
+    },
+    {
+        "search_query":"uova",
+        "name":"Sottilette Burger con Cheddar - formaggio fuso a fette - 370 g",
+        "price":"3.85",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"7622201685737"
+    },
+    {
+        "search_query":"uova",
+        "name":"Sottilette Classiche formaggio fuso a fette - 400g",
+        "price":"4.49",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"8001590927366"
+    },
+    {
+        "search_query":"uova",
+        "name":"Sottilette Le Specialità Cremose - formaggio fuso a fette ripieno di Philadelphia - 185 g",
+        "price":"2.39",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"7622210682680"
+    },
+    {
+        "search_query":"uova",
+        "name":"Sottilette formaggio fuso a fette Senza Lattosio - 200 g",
+        "price":"2.09",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"7622201679811"
+    },
+    {
+        "search_query":"uova",
+        "name":"Sottilette Fumé con Scamorza -  formaggio fuso a fette con Scamorza - 158 g",
+        "price":"2.25",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"7622201108007"
+    },
+    {
+        "search_query":"uova",
+        "name":"Sottilette Classiche formaggio fuso a fette - 200g",
+        "price":"2.49",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"8001590927335"
+    },
+    {
+        "search_query":"uova",
+        "name":"Sottilette Burger con Cheddar - formaggio fuso a fette - 185 g",
+        "price":"2.09",
+        "brand":"Sottilette",
+        "category":"scamorza,_emmental_e_formaggi_a_fette",
+        "ean":"7622210390592"
+    },
+    {
+        "search_query":"uova",
+        "name":"Philadelphia Original Formaggio Fresco cremoso Vaschetta 250g",
+        "price":"2.29",
+        "brand":" Philadelphia",
+        "category":"ricotta,_stracchino_e_formaggi_spalmabili",
+        "ean":"8001590640258"
+    },
+    {
+        "search_query":"uova",
+        "name":"Aia aeQuilibrium 6 Uova Fresche Medie da Galline Allevate a Terra Senza Uso di Antibiotici",
+        "price":"2.59",
+        "brand":"Aia",
+        "category":"uova",
+        "ean":"8008110040468"
+    },
+    {
+        "search_query":"uova",
+        "name":"Coccodì Medie 10 Uova Fresche da allevamento a Terra",
+        "price":"3.45",
+        "brand":"Coccodì",
+        "category":"uova",
+        "ean":"8000745006338"
+    },
+    {
+        "search_query":"uova",
+        "name":"Carrefour Classic Uova Fresche da Galline Allevate a Terra Pasta Gialla Grandi Categoria A x6",
+        "price":"2.19",
+        "brand":"Carrefour",
+        "category":"uova",
+        "ean":"8012666057955"
+    },
+    {
+        "search_query":"uova",
+        "name":"Coccodì Big 6 Uova Fresche XL da allevamento a Terra",
+        "price":"2.99",
+        "brand":"Coccodì",
+        "category":"uova",
+        "ean":"8000745006000"
+    },
+    {
+        "search_query":"uova",
+        "name":"Carrefour Classic Uova Fresche da galline allevate a terra senza uso di antibiotici* Grandi x10",
+        "price":"3.29",
+        "brand":"Carrefour",
+        "category":"uova",
+        "ean":"8012666071371"
+    },
+    {
+        "search_query":"uova",
+        "name":"Aia Ariaperta 6 Uova Fresche da allevamento all'Aperto 330 g",
+        "price":"2.69",
+        "brand":"Aia",
+        "category":"uova",
+        "ean":"8008110025946"
+    },
+    {
+        "search_query":"uova",
+        "name":"Coccodì Free 4 Uova Fresche da allevamento all'Aperto 220 g",
+        "price":"2.19",
+        "brand":"Coccodì",
+        "category":"uova",
+        "ean":"8000745004013"
+    },
+    {
+        "search_query":"uova",
+        "name":"le Naturelle 30 Uova Fresche da Allevamento a Terra Medie",
+        "price":"7.99",
+        "brand":"le Naturelle",
+        "category":"uova",
+        "ean":"8002790048646"
+    },
+    {
+        "search_query":"uova",
+        "name":"Coccodì Free 6 Uova Fresche da allevamento all'Aperto 350 g",
+        "price":"2.89",
+        "brand":"Coccodì",
+        "category":"uova",
+        "ean":"8000745006086"
+    },
+    {
+        "search_query":"uova",
+        "name":"Carrefour Classic Uova Fresche da galline allevate a terra senza uso di antibiotici* Grandi x6",
+        "price":"2.29",
+        "brand":"Carrefour",
+        "category":"uova",
+        "ean":"8012666071388"
+    },
+    {
+        "search_query":"uova",
+        "name":"Coccodì Bio 6 Uova Fresche Biologiche 330 g",
+        "price":"3.35",
+        "brand":"Coccodì",
+        "category":"uova",
+        "ean":"8000745113500"
+    },
+    {
+        "search_query":"uova",
+        "name":"le Naturelle Fonte di Vitamina D 6 Uova Fresche da Allevamento all'Aperto 330 g",
+        "price":"3.19",
+        "brand":"le Naturelle",
+        "category":"uova",
+        "ean":"8002790008411"
+    },
+    {
+        "search_query":"uova",
+        "name":"Ovito Fresche 10 Uova Fresche Grandi da Allevamento a Terra",
+        "price":"3.79",
+        "brand":"Ovito",
+        "category":"uova",
+        "ean":"8005843046446"
+    },
+    {
+        "search_query":"uova",
+        "name":"ovo mattino 10 Uova Fresche da allevamento a Terra 500 g",
+        "price":"4.29",
+        "brand":"ovo mattino",
+        "category":"uova",
+        "ean":"8002625000122"
+    },
+    {
+        "search_query":"uova",
+        "name":"Ovito Fresche 6 Uova Fresche Medie da Allevamento a Terra",
+        "price":"2.49",
+        "brand":"Ovito",
+        "category":"uova",
+        "ean":"8005843046361"
+    },
+    {
+        "search_query":"uova",
+        "name":"Aia aeQuilibrium 6 Uova Fresche Medie da Galline Allevate a Terra Senza Uso di Antibiotici",
+        "price":"2.69",
+        "brand":"Aia",
+        "category":"uova",
+        "ean":"8008110025861"
+    },
+    {
+        "search_query":"uova",
+        "name":"Coccodì dalle campagne della Lombardia 6 Uova Fresche Grandi da allevamento a Terra",
+        "price":"2.49",
+        "brand":"Coccodì",
+        "category":"uova",
+        "ean":"8000745006345"
+    },
+    {
+        "search_query":"uova",
+        "name":"Aia Pastagialla 10 Uova Fresche Medie da allevamento a Terra ",
+        "price":"3.39",
+        "brand":"Aia",
+        "category":"uova",
+        "ean":"8008110042042"
+    },
+    {
+        "search_query":"uova",
+        "name":"Aia aeQuilibrium Protein Albume d'Uovo Iperproteico 500 g",
+        "price":"3.49",
+        "brand":"Aia",
+        "category":"uova",
+        "ean":"8008110043544"
+    },
+    {
+        "search_query":"uova",
+        "name":"Coccodì Chef 6 Uova Fresche da allevamento a Terra 350 g",
+        "price":"2.59",
+        "brand":"Coccodì",
+        "category":"uova",
+        "ean":"8000745006109"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Carrefour Classic Pane Integrale 400 g",
+        "price":"0.99",
+        "brand":"Carrefour",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012666029969"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Carrefour Classic Pane a Fette agli 8 Cereali 400 g",
+        "price":"0.99",
+        "brand":"Carrefour",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012666050697"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Mulino Bianco Cuor di Pane Pane Bianco Ideale per Tramezzino 325g",
+        "price":"2.35",
+        "brand":"Mulino Bianco",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8076809577465"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"DailyBread Segale Pane Rustico 500 g",
+        "price":"2.15",
+        "brand":"DailyBread",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8032998903300"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Carrefour Classic Pane Senza Crosta a Fette 400 g",
+        "price":"1.99",
+        "brand":"Carrefour",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012666065554"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Carrefour Classic Panino Maxi per Hamburger 4 x 75 g",
+        "price":"1.09",
+        "brand":"Carrefour",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012666042777"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Carrefour Classic Panino per Hamburger 6 x 50 g",
+        "price":"1.09",
+        "brand":"Carrefour",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012666042760"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Mulino Bianco Cuor di Pane Rustico Ideale per Tramezzino 300g",
+        "price":"2.69",
+        "brand":"Mulino Bianco",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8076809584753"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"il Buon Pane il Pane Bauletto Bianco 400 g",
+        "price":"0.95",
+        "brand":"il Buon Pane",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8005221301358"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Mulino Bianco Gran Cuor di Pane Pane Bianco Ideale per Tramezzino 400g",
+        "price":"2.85",
+        "brand":"Mulino Bianco",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8076809580397"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Mulino Bianco Pan Carrè Pane Ideale per Toast 24 fette 430g",
+        "price":"1.39",
+        "brand":"Mulino Bianco",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8076809582162"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Mulino Bianco Pan Carrè Pane Ideale per Toast 16 fette 285g",
+        "price":"0.95",
+        "brand":"Mulino Bianco",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8076809528320"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Carrefour Classic Pan Carrè 330 g",
+        "price":"0.75",
+        "brand":"Carrefour",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012666010141"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"artebianca PanPiuma Grano tenero 400 g",
+        "price":"1.59",
+        "brand":"artebianca",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8002859150143"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Carrefour Classic Pane Integrale per Sandwich 550 g",
+        "price":"1.49",
+        "brand":"Carrefour",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012666068081"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"il Buon Pane il Pane Bauletto Integrale 400 g",
+        "price":"1.09",
+        "brand":"il Buon Pane",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8005221301365"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Carrefour Classic Pane per Tramezzini 5 Fette 250 g",
+        "price":"1.19",
+        "brand":"Carrefour",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012666042807"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Mulino Bianco Armonia Cuor di Lino Pane Semi di Lino, Soia, Semi di Girasole Fonte di Proteine 400g",
+        "price":"2.49",
+        "brand":"Mulino Bianco",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8076809542029"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"il Dolce Buon Pane Pan Brioche classico 500 g",
+        "price":"2.19",
+        "brand":"il Dolce Buon Pane",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8005221300535"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Gilli Pane di segale 500 g",
+        "price":"3.05",
+        "brand":"Gilli",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012678010436"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"YukyBio A Pasta Madre Pane Bauletto Integrale 400 g",
+        "price":"3.75",
+        "brand":"YukyBio",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8057288360069"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Mulino Bianco Pan Carrè Pane Integrale Ideale per Toast 315g",
+        "price":"1.19",
+        "brand":"Mulino Bianco",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8076809571982"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"DailyBread Pane Proteico con Semi di Lino, Girasole e Sesamo 250 g",
+        "price":"2.55",
+        "brand":"DailyBread",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8032998904710"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"YukyBio Power Grain Pane Biologico Proteico con Lievito Madre 400 g",
+        "price":"3.19",
+        "brand":"YukyBio",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8057288361042"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"artebianca PanPiumino Bio 300 g",
+        "price":"2.49",
+        "brand":"artebianca",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8002859150426"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Galbani Santa Lucia Nuvola la Leggera Spalmabile fresco 180 g",
+        "price":"1.70",
+        "brand":"Galbani",
+        "category":"ricotta,_stracchino_e_formaggi_spalmabili",
+        "ean":"8000430194555"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Galbani Santa Lucia Nuvola Spalmabile fresco 180 g",
+        "price":"1.49",
+        "brand":"Galbani",
+        "category":"ricotta,_stracchino_e_formaggi_spalmabili",
+        "ean":"8000430194401"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Rio mare Tonno all'Olio Extra Vergine di Oliva Leggero 4 x 60 g",
+        "price":"5.24",
+        "brand":"Rio mare",
+        "category":"tonno_sott'olio",
+        "ean":"8004030105096"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Rio mare Insalatissime Insalata di Tonno Piccantina con riso, fagioli e olio piccante 200 g",
+        "price":"3.90",
+        "brand":"Rio mare",
+        "category":"altro_pesce_in_scatola",
+        "ean":"8004030400078"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Rio mare Insalatissime Insalata di Tonno 5 Cereali con grano saraceno e olive verdi 200 g",
+        "price":"3.90",
+        "brand":"Rio mare",
+        "category":"altro_pesce_in_scatola",
+        "ean":"8004030400054"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Rio mare Trancetti di Tonno con un filo di Olio Extra Vergine di Oliva e succo di Limone 70 g",
+        "price":"2.49",
+        "brand":"Rio mare",
+        "category":"tonno_sott'olio",
+        "ean":"8004030470163"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Rio mare Tonno al Super Naturale 3 x 56 g + 1 Gratis",
+        "price":"4.83",
+        "brand":"Rio mare",
+        "category":"tonno_al_naturale",
+        "ean":"8004030271173"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Rio mare Insalatissime Insalata di Tonno cous cous con ceci, piselli e pomodorini 200 g",
+        "price":"3.90",
+        "brand":"Rio mare",
+        "category":"altro_pesce_in_scatola",
+        "ean":"8004030400030"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Rio mare Insalatissime Insalata di Tonno Sicily Edition con riso alla curcuma,ceci neri,arancia 200g",
+        "price":"3.90",
+        "brand":"Rio mare",
+        "category":"altro_pesce_in_scatola",
+        "ean":"8004030400115"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Rio mare Filetti di Tonno al Naturale 250 g",
+        "price":"7.99",
+        "brand":"Rio mare",
+        "category":"tonno_al_naturale",
+        "ean":"8004030656116"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Rio mare Filetto di Salmone all'Olio Extra Vergine di Oliva al Vapore 125 g",
+        "price":"5.49",
+        "brand":"Rio mare",
+        "category":"filetti_di_salmone",
+        "ean":"8004030525047"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Rio mare Filetto di Salmone al Naturale al Vapore 125 g",
+        "price":"5.49",
+        "brand":"Rio mare",
+        "category":"filetti_di_salmone",
+        "ean":"8004030525061"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Philadelphia Original Formaggio Fresco cremoso Vaschetta 250g",
+        "price":"2.29",
+        "brand":" Philadelphia",
+        "category":"ricotta,_stracchino_e_formaggi_spalmabili",
+        "ean":"8001590640258"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Carrefour Bio Pane a fette integrale 400 g",
+        "price":"1.55",
+        "brand":"Carrefour Bio",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012666065400"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"il Buon Pane Ciabattine Grano Duro 3 x 60 g",
+        "price":"1.19",
+        "brand":"il Buon Pane",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8005221303222"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"il Buon Pane Pane Bianco Bio 400 g",
+        "price":"1.59",
+        "brand":"il Buon Pane",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8005221301310"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"il Buon Pane Ciabattine Cereali e Semi 3 x 60 g",
+        "price":"1.19",
+        "brand":"il Buon Pane",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8005221303239"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"il Dolce Buon Pane Pan Brioche con gocce di cioccolato 500 g",
+        "price":"3.05",
+        "brand":"il Dolce Buon Pane",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8005221301051"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"il Buon Pane il Filone Grano Duro 500 g",
+        "price":"1.99",
+        "brand":"il Buon Pane",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8005221301983"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"YukyBio A Pasta Madre Pane Biologico al Grano Saraceno Integrale 400 g",
+        "price":"3.89",
+        "brand":"YukyBio",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8057288360076"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"artebianca PanPiuma Grano duro 400 g",
+        "price":"1.59",
+        "brand":"artebianca",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8002859150150"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Carrefour Classic Pane per Hot Dog 4 x 62,5 g",
+        "price":"1.09",
+        "brand":"Carrefour",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012666042784"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Carrefour Classic Pane Senza Crosta con Farina Integrale 400 g",
+        "price":"1.99",
+        "brand":"Carrefour",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012666073849"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"il Buon Pane il Pane Bauletto Grano Duro 400 g",
+        "price":"1.19",
+        "brand":"il Buon Pane",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8005221301372"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Sapori & Piaceri Pane tipo Pugliese a fette 450 g",
+        "price":"2.45",
+        "brand":"Sapori & Piaceri",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8029404008117"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"YukyBio A Pasta Madre Pane Biologico Forza 10 Multicereali con Semi 400 g",
+        "price":"2.95",
+        "brand":"YukyBio",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8057288360861"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Carrefour Bio Pane a Fette al farro con semi di lino, girasole e soia 400 g",
+        "price":"1.79",
+        "brand":"Carrefour Bio",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8012666053650"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Stagnati Pan morbidi Sandwich Italiano 450 g",
+        "price":"2.35",
+        "brand":"Stagnati",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8032774401969"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"il Buon Pane il Filone 8 Cereali Affettato 350 g",
+        "price":"2.55",
+        "brand":"il Buon Pane",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8005221301624"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"il Buon Pane Bio Pane Kamut 400 g",
+        "price":"2.99",
+        "brand":"il Buon Pane",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8005221301341"
+    },
+    {
+        "search_query":"pancarrè",
+        "name":"Mulino Bianco Pan Brioscè Pane Ideale per Colazione 400g",
+        "price":"2.79",
+        "brand":"Mulino Bianco",
+        "category":"pane_a_fette_e_pancarrè",
+        "ean":"8076809504713"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original 10 x 330ml Lattina",
+        "price":"4.79",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"5449000332127"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original 6 x 150ml",
+        "price":"3.69",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"5449000241085"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri 10 x 330ml Lattina",
+        "price":"4.79",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5449000332868"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri 6 x 330ml",
+        "price":"4.95",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5000112556254"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original 1L",
+        "price":"1.69",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"5449000054227"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original 6 x 330ml",
+        "price":"4.95",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"5000112564112"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri 1L",
+        "price":"1.69",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5449000133328"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri Zero Caffeina 1.5L",
+        "price":"3.05",
+        "brand":"Coca-Cola Zero Zuccheri Zero Caffeina",
+        "category":"cola",
+        "ean":"5449000169358"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri Zero Caffeina 6 x 330ml",
+        "price":"4.95",
+        "brand":"Coca-Cola Zero Zuccheri Zero Caffeina",
+        "category":"cola",
+        "ean":"5449000304520"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original Taste PET 4 X 1,5 L",
+        "price":"11.40",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"5000112516869"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri 6 x 150ml",
+        "price":"3.69",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5449000241078"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri 4 x 660ml",
+        "price":"5.10",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5449000243256"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri PET 4 x 1,5 L",
+        "price":"11.40",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5449000137494"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri Zero Caffeina 1L",
+        "price":"1.69",
+        "brand":"Coca-Cola Zero Zuccheri Zero Caffeina",
+        "category":"cola",
+        "ean":"5449000195906"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri PET 2 X 1,5 L",
+        "price":"5.95",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5000112600421"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original Taste PET 2 X 1,5 L",
+        "price":"5.95",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"5000112516111"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original 4 x 660ml",
+        "price":"5.10",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"5449000243263"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Caffeina Zero Zuccheri Minican 6 X 15cl",
+        "price":"3.69",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5449000309624"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original 2L",
+        "price":"2.89",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"5449000009067"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Caffeina Zero Zuccheri PET 4 X 66 cl",
+        "price":"5.10",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5449000347145"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Senza Caffeina 6 x 330ml",
+        "price":"4.95",
+        "brand":"Coca-Cola Senza Caffeina",
+        "category":"cola",
+        "ean":"5000112564037"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri 1.5L",
+        "price":"3.05",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5000112594218"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original 660ml",
+        "price":"1.29",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"5449000241313"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri 660ml",
+        "price":"1.29",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5449000241320"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original 4 x 200ml - Vetro",
+        "price":"4.39",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"5449000022424"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Senza Caffeina 4 x 660ml",
+        "price":"5.10",
+        "brand":"Coca-Cola Senza Caffeina",
+        "category":"cola",
+        "ean":"5449000246172"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original 1.5L",
+        "price":"3.05",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"5000112565348"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri PET 2 L",
+        "price":"2.75",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5000112595789"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri 450ml",
+        "price":"1.29",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"0000090375323"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Caffeina Zero Zuccheri PET 45 cl",
+        "price":"1.29",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5449000270849"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original Taste Can 33 cl",
+        "price":"0.85",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"5000112557664"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri 4 x 200ml - Vetro",
+        "price":"4.39",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5449000034557"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Original 450ml",
+        "price":"1.29",
+        "brand":"Coca-Cola Original",
+        "category":"cola",
+        "ean":"0000042105220"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri 330 ml",
+        "price":"0.85",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5000112556247"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Senza Caffeina 1.5L",
+        "price":"3.05",
+        "brand":"Coca-Cola Senza Caffeina",
+        "category":"cola",
+        "ean":"5449000000989"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Terre d'Italia la Margherita Surgelata 390 g",
+        "price":"4.75",
+        "brand":"Terre d'Italia",
+        "category":"pizza_margherita",
+        "ean":"8012666506675"
+    },
+    {
+        "search_query":"coca-cola",
+        "name":"Coca-Cola Zero Zuccheri PET 2 X 2 L",
+        "price":"4.99",
+        "brand":"Coca-Cola Zero Zuccheri",
+        "category":"cola",
+        "ean":"5449000136336"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella Cookies 7 pezzi 196 g",
+        "price":"3.69",
+        "brand":"nutella",
+        "category":"snack_dolci",
+        "ean":"8000500471852"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella 400 g",
+        "price":"3.99",
+        "brand":"nutella",
+        "category":"creme_spalmabili",
+        "ean":"0000080135876"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella biscuits 22 pezzi 304 g",
+        "price":"3.49",
+        "brand":"nutella",
+        "category":"biscotti_classici",
+        "ean":"8000500310427"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella 220 g",
+        "price":"3.19",
+        "brand":"nutella",
+        "category":"creme_spalmabili",
+        "ean":"0000080051411"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella 950 g",
+        "price":"6.99",
+        "brand":"nutella",
+        "category":"creme_spalmabili",
+        "ean":"8000500415573"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella 750 g",
+        "price":"6.49",
+        "brand":"nutella",
+        "category":"creme_spalmabili",
+        "ean":"8000500398418"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella croissant 4 pezzi 340 g",
+        "price":"4.15",
+        "brand":"nutella",
+        "category":"brioches_colazione_e_altri_dolci",
+        "ean":"8000500413654"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella B-ready 6 x 22 g",
+        "price":"2.59",
+        "brand":"nutella",
+        "category":"biscotti_classici",
+        "ean":"8000500227848"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella crêpe 6 x 40 g",
+        "price":"4.99",
+        "brand":"nutella",
+        "category":"torte_gelato_e_dessert",
+        "ean":"8000500436967"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella 6 x 15 g",
+        "price":"1.69",
+        "brand":"nutella",
+        "category":"creme_spalmabili",
+        "ean":"0000080946458"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella plant based l'esperienza inconfondibile di Nutella con ingredienti di origine vegetale 350g ",
+        "price":"4.49",
+        "brand":"nutella",
+        "category":"creme_spalmabili",
+        "ean":"8000500426494"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella 600 g",
+        "price":"5.89",
+        "brand":"nutella",
+        "category":"creme_spalmabili",
+        "ean":"8000500179864"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella B-ready 10 x 22 g",
+        "price":"3.99",
+        "brand":"nutella",
+        "category":"biscotti_classici",
+        "ean":"8000500217078"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella biscuits 5 confezioni da 3 pezzi 207 g",
+        "price":"3.09",
+        "brand":"nutella",
+        "category":"biscotti_classici",
+        "ean":"8000500382769"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella muffin 4 pezzi 264 g",
+        "price":"4.49",
+        "brand":"nutella",
+        "category":"torte_gelato_e_dessert",
+        "ean":"8000500431269"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella gelato 230 g",
+        "price":"4.99",
+        "brand":"nutella",
+        "category":"vaschette_gelato_e_barattoli",
+        "ean":"8000500425183"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella 450 g",
+        "price":"4.99",
+        "brand":"nutella",
+        "category":"creme_spalmabili",
+        "ean":"0000080050865"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella & Go! 2 x 48 g",
+        "price":"3.99",
+        "brand":"nutella",
+        "category":"snack_e_ovetti_di_cioccolato",
+        "ean":"8000500301609"
+    },
+    {
+        "search_query":"nutella",
+        "name":"Muffin alla Nutella 2 x 86 g",
+        "price":"3.19",
+        "brand":"Nutella",
+        "category":"brioches,_cornetti_e_croissant",
+        "ean":"2121087000000"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella donut 2 x 60 g",
+        "price":"2.98",
+        "brand":"nutella",
+        "category":"brioches,_cornetti_e_croissant",
+        "ean":"8000500445204"
+    },
+    {
+        "search_query":"nutella",
+        "name":"Nutella Donut 2 x 60 g",
+        "price":"2.98",
+        "brand":"Nutella",
+        "category":"brioches,_cornetti_e_croissant",
+        "ean":"2122474000000"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella biscuits 3 pezzi 41,4 g",
+        "price":"1.09",
+        "brand":"nutella",
+        "category":"biscotti_classici",
+        "ean":"8000500359358"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella biscuits 12 pezzi 166 g",
+        "price":"2.69",
+        "brand":"nutella",
+        "category":"biscotti_classici",
+        "ean":"8000500310397"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella & Go! 48 g",
+        "price":"1.99",
+        "brand":"nutella",
+        "category":"snack_e_ovetti_di_cioccolato",
+        "ean":"0000080956631"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella biscuits Limited Edition 22 pezzi 304 g",
+        "price":"15.70",
+        "brand":"nutella",
+        "category":"biscotti_classici",
+        "ean":"8000500379059"
+    },
+    {
+        "search_query":"nutella",
+        "name":"Milka Choco Brownie, merendina al cioccolato al latte - 6x25g",
+        "price":"1.99",
+        "brand":"Milka",
+        "category":"snack_dolci",
+        "ean":"7622210635396"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella Calendario dell'Avvento 20 pezzi 528 g",
+        "price":"29.99",
+        "brand":"nutella",
+        "category":"snack_e_ovetti_di_cioccolato",
+        "ean":"8000500408797"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella 7 pezzi 210 g",
+        "price":"9.49",
+        "brand":"nutella",
+        "category":"coniglietti_e_ovetti_di_cioccolato",
+        "ean":"8000500218174"
+    },
+    {
+        "search_query":"nutella",
+        "name":"nutella B-ready 2 x 22 g",
+        "price":"1.19",
+        "brand":"nutella",
+        "category":"biscotti_classici",
+        "ean":"8000500264850"
+    }
+]
